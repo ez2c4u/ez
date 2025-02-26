@@ -5,7 +5,7 @@ http://zhibo.hkstv.tv:80/livestream/mutfysrq.flv
 http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 http://cctvtxyh5c.liveplay.myqcloud.com/cstv/xianggangweishi_2/index.m3u8
 http://anren.live/HK/BSJDUFpB.m3u8
-#EXTINF:-1 group-title="Outdoor" tvg-logo="https://live.fanmingming.com/tv/美国之音.png" ,美国之音
+#EXTINF:-1 group-title="Outdoor" tvg-logo="https://raw.githubusercontent.com/ez2c4u/ez/main/logo/美国之音.png" ,美国之音
 http://op.880824.xyz:5678/mt-litv.php?id=litv-ftv03
 
 #EXTINF:-1 group-title="AdultIPTV" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/AdultIPTV.png",Anal
