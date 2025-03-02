@@ -519,6 +519,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 #EXTINF:-1 group-title="湾区掠影" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/凤凰资讯.png",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 http://122.117.71.103:8573/http/61.222.53.250:8078/hls/20/80/phoenixif.m3u8
+http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 http://cdn3.132.us.kg/live/fhzx/stream.m3u8
@@ -778,6 +779,7 @@ http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv016
 #EXTINF:-1 group-title="全球视野" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/FoxLive.png",Fox Live Now
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+https://jmp2.uk/sam-USBA300024TN.m3u8
 #EXTINF:-1 group-title="全球视野" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/FoxBusiness.png",Fox Business
 http://41.205.93.154/FOXBUSINESS/index.m3u8
 #EXTINF:-1 group-title="全球视野" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/FoxSoul.png",Fox Soul
@@ -785,24 +787,19 @@ https://fox-foxsoul-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="全球视野" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CNBC.png",CNBC
 http://stream.flynetwifi.com:1935/live/mobile-098/playlist.m3u8
 #EXTINF:-1 group-title="全球视野" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CNN.png",CNN Fast
-https://i.mjh.nz/SamsungTVPlus/INBD1300022TS.m3u8
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 group-title="全球视野" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CNN.png",CNN International
+https://jmp2.uk/sam-GBBD8000016N.m3u8
 https://epg.pw/stream/39c6d986c4ff60481338f0593a74b1591f279094cdaf90530103c792d0c93d4e.m3u8
-https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
-https://i.mjh.nz/SamsungTVPlus/GBBD8000016N.m3u8
-https://i.mjh.nz/SamsungTVPlus/ATBD800001VA.m3u8
-https://i.mjh.nz/SamsungTVPlus/CHBD800001D0.m3u8
-https://i.mjh.nz/SamsungTVPlus/DEBD800001S4.m3u8
 #EXTINF:-1 group-title="全球视野" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CNNNews.png",CNN News 18
 https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8
 #EXTINF:-1 group-title="全球视野" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/cnnj.png",CNNj
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
 #EXTINF:-1 group-title="全球视野" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/SkyNews.png",Sky News
 http://streamsy.online:2999/coachj88/N93DPKS9pJ/330
-https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 https://epg.pw/stream/e2e4216dd95a1f1c90b1dc92bb5e03ce8553f494a0e6814bd4f8ac48d0c834aa.m3u8
 #EXTINF:-1 group-title="全球视野" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/NBC.png",NBC News Now
+https://jmp2.uk/sam-GBBB1500004LG.m3u8
 https://i.mjh.nz/SamsungTVPlus/CAAJ2700011IF.m3u8
 #EXTINF:-1 group-title="全球视野" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/BloombergTV.png",Bloomberg
 https://epg.pw/stream/62cbd4ebd22b4694f6e26929cc28201330c33670c43b8e12afce66f85fb1f725.m3u8
@@ -811,6 +808,7 @@ https://epg.pw/stream/06078d710fa84ca77590852f224b01299894253106a32d4d2d6df2d121
 #EXTINF:-1 group-title="全球视野" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/BloombergTV.png",Bloomberg US
 https://epg.pw/stream/2d50cfde574af169f266ccd1a0aa802054a700b87af0d5f391eb15071210796b.m3u8
 #EXTINF:-1 group-title="全球视野" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/BBCWORLDNEWS.png",BBC News
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
 https://i.mjh.nz/SamsungTVPlus/US4000033L.m3u8
 http://4e87b8a2.rossteleccom.net/iptv/UWSCNHYFPPFSA5/545/153/index.m3u8
 #EXTINF:-1 group-title="全球视野" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/BBCWORLDNEWS.png",BBC World News
@@ -826,17 +824,15 @@ https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="全球视野" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/TVbrics.png",TV BRICS
 https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
 #EXTINF:-1 group-title="全球视野" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/AlJazeera.png",Al Jazeera
-http://op.880824.xyz:5678/mt-litv.php?id=litv-ftv10
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 http://live-hls-web-aja.getaj.net/AJA/index.m3u8
 http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 #EXTINF:-1 group-title="全球视野" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/NHKWorld.png",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 group-title="全球视野" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/Arirang_TV.png",ArirangTV
-http://op.880824.xyz:5678/mt-litv.php?id=4gtv-4gtv079
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch/master.m3u8
-https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
 #EXTINF:-1 group-title="全球视野" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/KBS.png",KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
@@ -844,6 +840,7 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 #EXTINF:-1 group-title="全球视野" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/朝鲜KCTV.png",朝鲜KCTV
 http://119.77.96.184:1935/chn05/chn05/chunklist_w644291506.m3u8
 #EXTINF:-1 group-title="全球视野" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/ABCAustralia.png",ABC News
+https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991626
 https://i.mjh.nz/SamsungTVPlus/USBC39000171G.m3u8
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
@@ -883,6 +880,7 @@ http://wouu.net:9977/udp/239.93.0.157:2194
 #EXTINF:-1 group-title="全球视野" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/环球电视台.png",环球电视台
 http://zb.xzxwhcb.com:9999/hls/world.m3u8
 #EXTINF:-1 group-title="全球视野" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/FASHIONTV.png",Fashion TV
+http://91.247.68.229:8000/play/Fashion/index.m3u8
 http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 #EXTINF:-1 group-title="全球视野" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/EUROSPORT.png",欧洲体育
