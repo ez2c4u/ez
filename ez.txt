@@ -17,7 +17,6 @@ http://111.29.9.33:6610/000000001000/1000000001000011218/index.m3u8?channel-id=b
 http://183.223.157.33:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV4.png",CCTV-4 中文国际
-http://175.18.189.238:9998/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 http://111.29.9.33:6610/000000001000/1000000002000031664/index.m3u8?channel-id=bestzb&Contentid=1000000002000031664&livemode=1&stbId=3
 http://183.223.157.33:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -129,12 +128,6 @@ http://39.134.65.166/PLTV/88888888/224/3221225678/1.m3u8
 http://39.134.65.173/PLTV/88888888/224/3221225678/1.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221225931/1.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/湖南卫视.png",湖南卫视
-http://192.168.3.6:5000/TVOD/5000000004000006692/bestzb/index.m3u8$8M1080_百视通
-http://192.168.3.6:5000/TVOD/6000000001000018044/wasusyt/index.m3u8$8M1080_华数
-http://192.168.3.6:5000/TVOD/1000000001000032695/ystenlive/index.m3u8$8M1080_易视腾
-http://192.168.3.6:5000/TVOD/1000000005000265024/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
-http://192.168.3.6:5000/TVOD/5000000010000030452/bestzb/index.m3u8$4M1080_百视通
-http://192.168.3.6:5000/TVOD/1000000001000009115/ystenlive/index.m3u8$4M1080_易视腾
 http://39.134.65.181/PLTV/88888888/224/3221225506/1.m3u8
 http://39.134.65.173/PLTV/88888888/224/3221225506/1.m3u8
 http://39.134.65.166/PLTV/88888888/224/3221225506/1.m3u8
@@ -305,7 +298,6 @@ http://192.168.3.6:5000/TVOD/5000000006000040020/bestzb/index.m3u8$4M540_百视�
 https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 
 #EXTINF:-1 group-title="湾区掠影" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/凤凰中文.png",凤凰中文
-http://cdn.132.us.kg/live/fhzw/stream.m3u8
 http://cdn.163189.xyz/live/fhzw/stream.m3u8
 http://122.117.71.103:8574/http/220.130.87.218:8078/hls/21/80/phoenixch.m3u8
 http://122.117.71.103:8574/http/61.222.53.250:8078/hls/21/80/phoenixch.m3u8
