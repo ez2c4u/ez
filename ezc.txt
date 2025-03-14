@@ -1,59 +1,59 @@
 #EXTM3U x-tvg-url="https://iptv.crestekk.cn/epgphp/t.xml,http://epg.51zmt.top:8000/e.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV1.png",CCTV-1 综合
-http://107.172.231.80:5010/TVOD/6000000001000029752/wasusyt/index.m3u8$8M1080_华数
-http://107.172.231.80:5010/TVOD/1000000001000018602/ystenlive/index.m3u8$8M1080_易视腾
-http://107.172.231.80:5010/TVOD/5000000004000002226/bestzb/index.m3u8$7.5M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000005000265001/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
-http://107.172.231.80:5010/TVOD/5000000010000030810/bestzb/index.m3u8$4M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000001000021973/ystenlive/index.m3u8$4M1080_易视腾
+http://192.168.3.6:5000/TVOD/6000000001000029752/wasusyt/index.m3u8$8M1080_华数
+http://192.168.3.6:5000/TVOD/1000000001000018602/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/5000000004000002226/bestzb/index.m3u8$7.5M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000005000265001/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.3.6:5000/TVOD/5000000010000030810/bestzb/index.m3u8$4M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000001000021973/ystenlive/index.m3u8$4M1080_易视腾
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 http://183.223.157.33:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 http://112.123.206.32:808/hls/1/index.m3u8
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV2.png",CCTV-2 财经
-http://107.172.231.80:5010/TVOD/6000000001000014161/wasusyt/index.m3u8$8M1080_华数
-http://107.172.231.80:5010/TVOD/1000000001000023315/ystenlive/index.m3u8$8M1080_易视腾
-http://107.172.231.80:5010/TVOD/5000000011000031101/bestzb/index.m3u8$6.8M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000005000265002/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
-http://107.172.231.80:5010/TVOD/1000000001000012442/ystenlive/index.m3u8$4M1080_易视腾http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588
+http://192.168.3.6:5000/TVOD/6000000001000014161/wasusyt/index.m3u8$8M1080_华数
+http://192.168.3.6:5000/TVOD/1000000001000023315/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/5000000011000031101/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000005000265002/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.3.6:5000/TVOD/1000000001000012442/ystenlive/index.m3u8$4M1080_易视腾http://php.jdshipin.com/TVOD/hljyd.php?id=3221225588
 http://39.164.180.36:19901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 http://111.29.9.33:6610/000000001000/1000000001000012442/index.m3u8?channel-id=bestzb&Contentid=1000000001000012442&livemode=1&stbId=3
 http://183.223.157.33:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcnoJZd_sZxCC6bZYZh4R6g%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV3.png",CCTV-3 综艺
-http://107.172.231.80:5010/TVOD/6000000001000022313/wasusyt/index.m3u8$8M1080_华数
-http://107.172.231.80:5010/TVOD/1000000001000013682/ystenlive/index.m3u8$8M1080_易视腾
-http://107.172.231.80:5010/TVOD/5000000004000008883/bestzb/index.m3u8$6.8M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000005000265003/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
-http://107.172.231.80:5010/TVOD/5000000002000020548/bestzb/index.m3u8$4M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000001000011218/ystenlive/index.m3u8$4M1080_易视腾http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021
+http://192.168.3.6:5000/TVOD/6000000001000022313/wasusyt/index.m3u8$8M1080_华数
+http://192.168.3.6:5000/TVOD/1000000001000013682/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/5000000004000008883/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000005000265003/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.3.6:5000/TVOD/5000000002000020548/bestzb/index.m3u8$4M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000001000011218/ystenlive/index.m3u8$4M1080_易视腾http://php.jdshipin.com/TVOD/hljyd.php?id=3221226021
 http://111.29.9.33:6610/000000001000/1000000001000011218/index.m3u8?channel-id=bestzb&Contentid=1000000001000011218&livemode=1&stbId=3
 http://183.223.157.33:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV4.png",CCTV-4 中文国际
-http://107.172.231.80:5010/TVOD/5000000011000031102/bestzb/index.m3u8$6.8M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000005000265004/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
-http://107.172.231.80:5010/TVOD/1000000002000031664/ystenlive/index.m3u8$4M1080_易视腾
-http://107.172.231.80:5010/TVOD/5000000005000030093/bestzb/index.m3u8$4M720_百视通http://111.29.9.33:6610/000000001000/1000000002000031664/index.m3u8?channel-id=bestzb&Contentid=1000000002000031664&livemode=1&stbId=3
+http://192.168.3.6:5000/TVOD/5000000011000031102/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000005000265004/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.3.6:5000/TVOD/1000000002000031664/ystenlive/index.m3u8$4M1080_易视腾
+http://192.168.3.6:5000/TVOD/5000000005000030093/bestzb/index.m3u8$4M720_百视通http://111.29.9.33:6610/000000001000/1000000002000031664/index.m3u8?channel-id=bestzb&Contentid=1000000002000031664&livemode=1&stbId=3
 http://183.223.157.33:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV5.png",CCTV-5 体育
-http://107.172.231.80:5010/TVOD/6000000001000016431/wasusyt/index.m3u8$8M1080_华数
-http://107.172.231.80:5010/TVOD/1000000003000030177/ystenlive/index.m3u8$8M1080_易视腾
-http://107.172.231.80:5010/TVOD/5000000004000008885/bestzb/index.m3u8$6.8M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000005000265005/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
-http://107.172.231.80:5010/TVOD/1000000005000025222/ystenlive/index.m3u8$12M1080_易视腾
-http://107.172.231.80:5010/TVOD/5000000010000016619/bestzb/index.m3u8$4M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000001000004794/ystenlive/index.m3u8$4M1080_易视腾http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
+http://192.168.3.6:5000/TVOD/6000000001000016431/wasusyt/index.m3u8$8M1080_华数
+http://192.168.3.6:5000/TVOD/1000000003000030177/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/5000000004000008885/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000005000265005/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.3.6:5000/TVOD/1000000005000025222/ystenlive/index.m3u8$12M1080_易视腾
+http://192.168.3.6:5000/TVOD/5000000010000016619/bestzb/index.m3u8$4M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000001000004794/ystenlive/index.m3u8$4M1080_易视腾http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
 http://111.29.9.33:6610/000000001000/1000000001000004794/index.m3u8?channel-id=bestzb&Contentid=1000000001000004794&livemode=1&stbId=3
 http://183.223.157.33:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EevWZ0zmguDsOY_Mf3SM5TA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV5+.png",CCTV-5+ 体育赛事
-http://107.172.231.80:5010/TVOD/6000000001000015875/wasusyt/index.m3u8$8M1080_华数
-http://107.172.231.80:5010/TVOD/1000000001000018504/ystenlive/index.m3u8$8M1080_易视腾
-http://107.172.231.80:5010/TVOD/5000000011000031127/bestzb/index.m3u8$6.8M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000005000265016/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
-http://107.172.231.80:5010/TVOD/1000000001000020505/ystenlive/index.m3u8$4M1080_易视腾http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
+http://192.168.3.6:5000/TVOD/6000000001000015875/wasusyt/index.m3u8$8M1080_华数
+http://192.168.3.6:5000/TVOD/1000000001000018504/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/5000000011000031127/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000005000265016/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.3.6:5000/TVOD/1000000001000020505/ystenlive/index.m3u8$4M1080_易视腾http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
 http://60.209.125.254:352/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 http://111.29.9.33:6610/000000001000/1000000001000020505/index.m3u8?channel-id=bestzb&Contentid=1000000001000020505&livemode=1&stbId=3
 http://183.223.157.33:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -61,119 +61,119 @@ http://218.58.136.82:352/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 http://60.214.104.110:352/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EevWZ0zmguDsOY_Mf3SM5TA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV6.png",CCTV-6 电影
-http://107.172.231.80:5010/TVOD/6000000001000004574/wasusyt/index.m3u8$8M1080_华数
-http://107.172.231.80:5010/TVOD/1000000001000001737/ystenlive/index.m3u8$8M1080_易视腾
-http://107.172.231.80:5010/TVOD/5000000004000008886/bestzb/index.m3u8$6.8M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000005000265006/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
-http://107.172.231.80:5010/TVOD/5000000010000018433/bestzb/index.m3u8$4M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000001000016466/ystenlive/index.m3u8$4M1080_易视腾http://php.jdshipin.com/TVOD/hljyd.php?id=3221226010
+http://192.168.3.6:5000/TVOD/6000000001000004574/wasusyt/index.m3u8$8M1080_华数
+http://192.168.3.6:5000/TVOD/1000000001000001737/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/5000000004000008886/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000005000265006/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.3.6:5000/TVOD/5000000010000018433/bestzb/index.m3u8$4M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000001000016466/ystenlive/index.m3u8$4M1080_易视腾http://php.jdshipin.com/TVOD/hljyd.php?id=3221226010
 http://111.29.9.33:6610/000000001000/1000000001000016466/index.m3u8?channel-id=bestzb&Contentid=1000000001000016466&livemode=1&stbId=3
 http://183.223.157.33:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV7.png",CCTV-7 国防军事
-http://107.172.231.80:5010/TVOD/6000000001000009055/wasusyt/index.m3u8$8M1080_华数
-http://107.172.231.80:5010/TVOD/1000000001000024341/ystenlive/index.m3u8$8M1080_易视腾
-http://107.172.231.80:5010/TVOD/5000000011000031104/bestzb/index.m3u8$6.8M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000005000265007/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
-http://107.172.231.80:5010/TVOD/1000000001000017218/ystenlive/index.m3u8$4M1080_易视腾
-http://107.172.231.80:5010/TVOD/5000000005000026715/bestzb/index.m3u8$4M720_百视通http://php.jdshipin.com/TVOD/hljyd.php?id=3221225733
+http://192.168.3.6:5000/TVOD/6000000001000009055/wasusyt/index.m3u8$8M1080_华数
+http://192.168.3.6:5000/TVOD/1000000001000024341/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/5000000011000031104/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000005000265007/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.3.6:5000/TVOD/1000000001000017218/ystenlive/index.m3u8$4M1080_易视腾
+http://192.168.3.6:5000/TVOD/5000000005000026715/bestzb/index.m3u8$4M720_百视通http://php.jdshipin.com/TVOD/hljyd.php?id=3221225733
 http://182.37.169.94:352/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 http://111.29.9.33:6610/000000001000/1000000001000017218/index.m3u8?channel-id=bestzb&Contentid=1000000001000017218&livemode=1&stbId=3
 http://218.13.14.6:60050/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 http://183.223.157.33:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2bEV_zkW1hRnWmsZq6rlbw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV8.png",CCTV-8 电视剧
-http://107.172.231.80:5010/TVOD/6000000001000001070/wasusyt/index.m3u8$8M1080_华数
-http://107.172.231.80:5010/TVOD/1000000001000031433/ystenlive/index.m3u8$8M1080_易视腾
-http://107.172.231.80:5010/TVOD/5000000004000008888/bestzb/index.m3u8$6.8M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000005000265008/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
-http://107.172.231.80:5010/TVOD/5000000010000018377/bestzb/index.m3u8$4M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000001000003736/ystenlive/index.m3u8$4M1080_易视腾http://php.jdshipin.com/TVOD/hljyd.php?id=3221226008
+http://192.168.3.6:5000/TVOD/6000000001000001070/wasusyt/index.m3u8$8M1080_华数
+http://192.168.3.6:5000/TVOD/1000000001000031433/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/5000000004000008888/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000005000265008/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.3.6:5000/TVOD/5000000010000018377/bestzb/index.m3u8$4M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000001000003736/ystenlive/index.m3u8$4M1080_易视腾http://php.jdshipin.com/TVOD/hljyd.php?id=3221226008
 http://111.29.9.33:6610/000000001000/1000000001000003736/index.m3u8?channel-id=bestzb&Contentid=1000000001000003736&livemode=1&stbId=3
 http://183.223.157.33:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV9.png",CCTV-9 纪录
-http://107.172.231.80:5010/TVOD/6000000001000032162/wasusyt/index.m3u8$8M1080_华数
-http://107.172.231.80:5010/TVOD/1000000001000014583/ystenlive/index.m3u8$8M1080_易视腾
-http://107.172.231.80:5010/TVOD/1000000005000265009/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
-http://107.172.231.80:5010/TVOD/5000000010000018384/bestzb/index.m3u8$4M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000001000028286/ystenlive/index.m3u8$4M1080_易视腾http://php.jdshipin.com/TVOD/hljyd.php?id=3221225734
+http://192.168.3.6:5000/TVOD/6000000001000032162/wasusyt/index.m3u8$8M1080_华数
+http://192.168.3.6:5000/TVOD/1000000001000014583/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/1000000005000265009/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.3.6:5000/TVOD/5000000010000018384/bestzb/index.m3u8$4M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000001000028286/ystenlive/index.m3u8$4M1080_易视腾http://php.jdshipin.com/TVOD/hljyd.php?id=3221225734
 http://60.209.125.254:352/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 http://111.29.9.33:6610/000000001000/1000000001000014583/index.m3u8?channel-id=bestzb&Contentid=1000000001000014583&livemode=1&stbId=3
 http://183.223.157.33:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EgdZMBjOTdDWVEgovFkZoew%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV10.png",CCTV-10 科教
-http://107.172.231.80:5010/TVOD/5000000004000012827/bestzb/index.m3u8$8M1080_百视通
-http://107.172.231.80:5010/TVOD/6000000001000031506/wasusyt/index.m3u8$8M1080_华数
-http://107.172.231.80:5010/TVOD/1000000001000023734/ystenlive/index.m3u8$8M1080_易视腾
-http://107.172.231.80:5010/TVOD/1000000005000265010/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
-http://107.172.231.80:5010/TVOD/5000000010000016738/bestzb/index.m3u8$4M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000001000026367/ystenlive/index.m3u8$4M1080_易视腾http://php.jdshipin.com/TVOD/hljyd.php?id=3221225730
+http://192.168.3.6:5000/TVOD/5000000004000012827/bestzb/index.m3u8$8M1080_百视通
+http://192.168.3.6:5000/TVOD/6000000001000031506/wasusyt/index.m3u8$8M1080_华数
+http://192.168.3.6:5000/TVOD/1000000001000023734/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/1000000005000265010/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.3.6:5000/TVOD/5000000010000016738/bestzb/index.m3u8$4M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000001000026367/ystenlive/index.m3u8$4M1080_易视腾http://php.jdshipin.com/TVOD/hljyd.php?id=3221225730
 http://39.164.180.36:19901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
 http://111.29.9.33:6610/000000001000/1000000001000023734/index.m3u8?channel-id=bestzb&Contentid=1000000001000023734&livemode=1&stbId=3
 http://183.223.157.33:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Egbbk6OxyTS2utbJWm7Qw1w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV11.png",CCTV-11 戏曲
-http://107.172.231.80:5010/TVOD/5000000011000031106/bestzb/index.m3u8$6.8M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000005000265011/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
-http://107.172.231.80:5010/TVOD/5000000006000040011/bestzb/index.m3u8$4M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000002000019789/ystenlive/index.m3u8$4M1080_易视腾http://php.jdshipin.com/TVOD/hljyd.php?id=3221226565
+http://192.168.3.6:5000/TVOD/5000000011000031106/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000005000265011/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.3.6:5000/TVOD/5000000006000040011/bestzb/index.m3u8$4M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000002000019789/ystenlive/index.m3u8$4M1080_易视腾http://php.jdshipin.com/TVOD/hljyd.php?id=3221226565
 http://39.164.180.36:19901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
 http://111.29.9.33:6610/000000001000/1000000002000019789/index.m3u8?channel-id=bestzb&Contentid=1000000002000019789&livemode=1&stbId=3
 http://183.223.157.33:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0RcQQbNseiHvFO8XWf466A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV12.png",CCTV-12 社会与法
-http://107.172.231.80:5010/TVOD/6000000001000022586/wasusyt/index.m3u8$8M1080_华数
-http://107.172.231.80:5010/TVOD/1000000001000032494/ystenlive/index.m3u8$8M1080_易视腾
-http://107.172.231.80:5010/TVOD/5000000011000031107/bestzb/index.m3u8$6.8M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000005000265012/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
-http://107.172.231.80:5010/TVOD/1000000001000001640/ystenlive/index.m3u8$4M1080_易视腾
-http://107.172.231.80:5010/TVOD/5000000006000040012/bestzb/index.m3u8$4M540_百视通http://php.jdshipin.com/TVOD/hljyd.php?id=3221225731
+http://192.168.3.6:5000/TVOD/6000000001000022586/wasusyt/index.m3u8$8M1080_华数
+http://192.168.3.6:5000/TVOD/1000000001000032494/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/5000000011000031107/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000005000265012/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.3.6:5000/TVOD/1000000001000001640/ystenlive/index.m3u8$4M1080_易视腾
+http://192.168.3.6:5000/TVOD/5000000006000040012/bestzb/index.m3u8$4M540_百视通http://php.jdshipin.com/TVOD/hljyd.php?id=3221225731
 http://39.164.180.36:19901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0&authid=0
 http://111.29.9.33:6610/000000001000/1000000001000001640/index.m3u8?channel-id=bestzb&Contentid=1000000001000001640&livemode=1&stbId=3
 http://183.223.157.33:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E9nVa4WyKpuJgFy6Zh4TplQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV13.png",CCTV-13 新闻
-http://107.172.231.80:5010/TVOD/5000000011000031108/bestzb/index.m3u8$6.8M1080_百视通
-http://107.172.231.80:5010/TVOD/5000000005000001827/bestzb/index.m3u8$4M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000002000021303/ystenlive/index.m3u8$4M1080_易视腾http://php.jdshipin.com/TVOD/hljyd.php?id=3221226011
+http://192.168.3.6:5000/TVOD/5000000011000031108/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.3.6:5000/TVOD/5000000005000001827/bestzb/index.m3u8$4M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000002000021303/ystenlive/index.m3u8$4M1080_易视腾http://php.jdshipin.com/TVOD/hljyd.php?id=3221226011
 http://39.164.180.36:19901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
 http://111.29.9.33:6610/000000001000/1000000002000021303/index.m3u8?channel-id=bestzb&Contentid=1000000002000021303&livemode=1&stbId=3
 http://183.223.157.33:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EqHPe9pEEWJ00hz1ArnRZVA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV14.png",CCTV-14 少儿
-http://107.172.231.80:5010/TVOD/5000000004000006673/bestzb/index.m3u8$8M1080_百视通
-http://107.172.231.80:5010/TVOD/6000000001000013647/wasusyt/index.m3u8$8M1080_华数
-http://107.172.231.80:5010/TVOD/1000000001000008170/ystenlive/index.m3u8$8M1080_易视腾
-http://107.172.231.80:5010/TVOD/1000000005000265013/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
-http://107.172.231.80:5010/TVOD/5000000010000023358/bestzb/index.m3u8$4M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000001000021349/ystenlive/index.m3u8$4M1080_易视腾http://php.jdshipin.com/TVOD/hljyd.php?id=3221225732
+http://192.168.3.6:5000/TVOD/5000000004000006673/bestzb/index.m3u8$8M1080_百视通
+http://192.168.3.6:5000/TVOD/6000000001000013647/wasusyt/index.m3u8$8M1080_华数
+http://192.168.3.6:5000/TVOD/1000000001000008170/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/1000000005000265013/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.3.6:5000/TVOD/5000000010000023358/bestzb/index.m3u8$4M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000001000021349/ystenlive/index.m3u8$4M1080_易视腾http://php.jdshipin.com/TVOD/hljyd.php?id=3221225732
 http://222.173.108.238:352/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
 http://111.29.9.33:6610/000000001000/1000000001000008170/index.m3u8?channel-id=bestzb&Contentid=1000000001000008170&livemode=1&stbId=3
 http://113.56.95.69:53765/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 http://218.13.14.6:60050/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EgtTqPYLE5COifF-qvYi2Ig%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV15.png",CCTV-15 音乐
-http://107.172.231.80:5010/TVOD/5000000011000031109/bestzb/index.m3u8$6.8M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000005000265014/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
-http://107.172.231.80:5010/TVOD/1000000002000008163/ystenlive/index.m3u8$4M1080_易视腾http://php.jdshipin.com/TVOD/hljyd.php?id=3221226476
+http://192.168.3.6:5000/TVOD/5000000011000031109/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000005000265014/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.3.6:5000/TVOD/1000000002000008163/ystenlive/index.m3u8$4M1080_易视腾http://php.jdshipin.com/TVOD/hljyd.php?id=3221226476
 http://111.29.9.33:6610/000000001000/1000000002000008163/index.m3u8?channel-id=bestzb&Contentid=1000000002000008163&livemode=1&stbId=3
 http://183.223.157.33:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWyklhmFh7oMx-lG1tNUcSQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV16.png",CCTV-16 奥林匹克
-http://107.172.231.80:5010/TVOD/1000000006000233002/ystenlive/index.m3u8$8M1080_易视腾
-http://107.172.231.80:5010/TVOD/5000000008000023254/bestzb/index.m3u8$12M2160HEVC_百视通
-http://107.172.231.80:5010/TVOD/5000000008000023253/bestzb/index.m3u8$6.8M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000006000233001/ystenlive/index.m3u8$4M1080_易视腾
-http://107.172.231.80:5010/TVOD/5000000008000023254/bestzb/index.m3u8$12M2160HEVC_百视通http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
+http://192.168.3.6:5000/TVOD/1000000006000233002/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/5000000008000023254/bestzb/index.m3u8$12M2160HEVC_百视通
+http://192.168.3.6:5000/TVOD/5000000008000023253/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000006000233001/ystenlive/index.m3u8$4M1080_易视腾
+http://192.168.3.6:5000/TVOD/5000000008000023254/bestzb/index.m3u8$12M2160HEVC_百视通http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
 https://yunmei.tv/main/cctv-16.m3u8
 http://219.135.180.210:18888/hls/31/index.m3u8
 http://58.17.48.228:808/hls/25/index.m3u8
 http://58.221.214.82:9901/tsfile/live/0002_2.m3u8?key=txiptv&playlive=1&authid=0
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX9goLRw26BM_r54des2PAw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV17.png",CCTV-17 农业农村
-http://107.172.231.80:5010/TVOD/1000000006000268004/ystenlive/index.m3u8$8M1080_易视腾
-http://107.172.231.80:5010/TVOD/1000000005000265015/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
-http://107.172.231.80:5010/TVOD/1000000005000056836/ystenlive/index.m3u8$4M1080_易视腾http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
+http://192.168.3.6:5000/TVOD/1000000006000268004/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/1000000005000265015/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.3.6:5000/TVOD/1000000005000056836/ystenlive/index.m3u8$4M1080_易视腾http://php.jdshipin.com/TVOD/hljyd.php?id=3221225765
 http://182.37.169.94:352/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
 http://111.29.9.33:6610/000000001000/1000000005000056836/index.m3u8?channel-id=bestzb&Contentid=1000000005000056836&livemode=1&stbId=3
 http://183.223.157.33:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -193,11 +193,11 @@ https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/北京卫视.png",北京卫视
-http://107.172.231.80:5010/TVOD/6000000001000020451/wasusyt/index.m3u8$8M1080_华数
-http://107.172.231.80:5010/TVOD/5000000004000031556/bestzb/index.m3u8$7.5M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000005000265027/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
-http://107.172.231.80:5010/TVOD/5000000010000011502/bestzb/index.m3u8$4M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000001000017156/ystenlive/index.m3u8$4M1080_易视腾http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://192.168.3.6:5000/TVOD/6000000001000020451/wasusyt/index.m3u8$8M1080_华数
+http://192.168.3.6:5000/TVOD/5000000004000031556/bestzb/index.m3u8$7.5M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000005000265027/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.3.6:5000/TVOD/5000000010000011502/bestzb/index.m3u8$4M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000001000017156/ystenlive/index.m3u8$4M1080_易视腾http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://220.164.192.48:50085/tsfile/live/0135_1.m3u8
 http://39.134.65.179/PLTV/88888888/224/3221225678/1.m3u8
 http://39.134.65.164/PLTV/88888888/224/3221225678/1.m3u8
@@ -205,23 +205,23 @@ http://39.134.65.166/PLTV/88888888/224/3221225678/1.m3u8
 http://39.134.65.173/PLTV/88888888/224/3221225678/1.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221225931/1.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/湖南卫视.png",湖南卫视
-http://107.172.231.80:5010/TVOD/5000000004000006692/bestzb/index.m3u8$8M1080_百视通
-http://107.172.231.80:5010/TVOD/6000000001000018044/wasusyt/index.m3u8$8M1080_华数
-http://107.172.231.80:5010/TVOD/1000000001000032695/ystenlive/index.m3u8$8M1080_易视腾
-http://107.172.231.80:5010/TVOD/1000000005000265024/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
-http://107.172.231.80:5010/TVOD/5000000010000030452/bestzb/index.m3u8$4M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000001000009115/ystenlive/index.m3u8$4M1080_易视腾http://39.134.65.181/PLTV/88888888/224/3221225506/1.m3u8
+http://192.168.3.6:5000/TVOD/5000000004000006692/bestzb/index.m3u8$8M1080_百视通
+http://192.168.3.6:5000/TVOD/6000000001000018044/wasusyt/index.m3u8$8M1080_华数
+http://192.168.3.6:5000/TVOD/1000000001000032695/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/1000000005000265024/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.3.6:5000/TVOD/5000000010000030452/bestzb/index.m3u8$4M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000001000009115/ystenlive/index.m3u8$4M1080_易视腾http://39.134.65.181/PLTV/88888888/224/3221225506/1.m3u8
 http://39.134.65.173/PLTV/88888888/224/3221225506/1.m3u8
 http://39.134.65.166/PLTV/88888888/224/3221225506/1.m3u8
 http://39.134.65.183/PLTV/88888888/224/3221225506/1.m3u8
 http://39.134.65.175/PLTV/88888888/224/3221225506/1.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/江苏卫视.png",江苏卫视
-http://107.172.231.80:5010/TVOD/6000000001000014861/wasusyt/index.m3u8$8M1080_华数
-http://107.172.231.80:5010/TVOD/1000000001000001828/ystenlive/index.m3u8$8M1080_易视腾
-http://107.172.231.80:5010/TVOD/5000000004000019351/bestzb/index.m3u8$7.5M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000005000265030/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
-http://107.172.231.80:5010/TVOD/5000000010000018509/bestzb/index.m3u8$4M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000001000004684/ystenlive/index.m3u8$4M1080_易视腾http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226897/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0BmO6uHF7WFoTed__Xr3NQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://192.168.3.6:5000/TVOD/6000000001000014861/wasusyt/index.m3u8$8M1080_华数
+http://192.168.3.6:5000/TVOD/1000000001000001828/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/5000000004000019351/bestzb/index.m3u8$7.5M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000005000265030/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.3.6:5000/TVOD/5000000010000018509/bestzb/index.m3u8$4M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000001000004684/ystenlive/index.m3u8$4M1080_易视腾http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226897/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0BmO6uHF7WFoTed__Xr3NQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://39.164.160.249:9901/tsfile/live/0127_1.m3u8
 http://39.134.65.175/PLTV/88888888/224/3221225503/1.m3u8
 http://39.134.65.181/PLTV/88888888/224/3221225503/1.m3u8
@@ -229,12 +229,12 @@ http://39.134.65.183/PLTV/88888888/224/3221225503/1.m3u8
 http://39.134.65.173/PLTV/88888888/224/3221225503/1.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221225938/1.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/浙江卫视.png",浙江卫视
-http://107.172.231.80:5010/TVOD/5000000004000007275/bestzb/index.m3u8$8M1080_百视通
-http://107.172.231.80:5010/TVOD/6000000001000032070/wasusyt/index.m3u8$8M1080_华数
-http://107.172.231.80:5010/TVOD/1000000001000014260/ystenlive/index.m3u8$8M1080_易视腾
-http://107.172.231.80:5010/TVOD/1000000005000265031/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
-http://107.172.231.80:5010/TVOD/5000000010000017320/bestzb/index.m3u8$4M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000001000009806/ystenlive/index.m3u8$4M1080_易视腾http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226899/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETYfTgTra_pUx2cPrgZ_BDw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://192.168.3.6:5000/TVOD/5000000004000007275/bestzb/index.m3u8$8M1080_百视通
+http://192.168.3.6:5000/TVOD/6000000001000032070/wasusyt/index.m3u8$8M1080_华数
+http://192.168.3.6:5000/TVOD/1000000001000014260/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/1000000005000265031/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.3.6:5000/TVOD/5000000010000017320/bestzb/index.m3u8$4M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000001000009806/ystenlive/index.m3u8$4M1080_易视腾http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226899/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETYfTgTra_pUx2cPrgZ_BDw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 http://ali-m-l.cztv.com/channels/lantian/channel001/720p.m3u8
 http://39.134.65.162/PLTV/88888888/224/3221225514/1.m3u8
@@ -243,13 +243,13 @@ http://39.134.65.179/PLTV/88888888/224/3221225514/1.m3u8
 http://39.134.65.173/PLTV/88888888/224/3221225514/1.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221225959/1.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/东方卫视.png",东方卫视
-http://107.172.231.80:5010/TVOD/5000000004000014098/bestzb/index.m3u8$8M1080_百视通
-http://107.172.231.80:5010/TVOD/6000000001000003639/wasusyt/index.m3u8$8M1080_华数
-http://107.172.231.80:5010/TVOD/1000000001000005866/ystenlive/index.m3u8$8M1080_易视腾
-http://107.172.231.80:5010/TVOD/1000000005000265018/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
-http://107.172.231.80:5010/TVOD/5000000010000032246/bestzb/index.m3u8$4M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000001000030202/ystenlive/index.m3u8$4M1080_易视腾
-http://107.172.231.80:5010/TVOD/2000000002000000056/hnbblive/index.m3u8$2M720_湖南bblivehttp://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226898/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0uh4lyjjBCCN7TCq21vSIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://192.168.3.6:5000/TVOD/5000000004000014098/bestzb/index.m3u8$8M1080_百视通
+http://192.168.3.6:5000/TVOD/6000000001000003639/wasusyt/index.m3u8$8M1080_华数
+http://192.168.3.6:5000/TVOD/1000000001000005866/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/1000000005000265018/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.3.6:5000/TVOD/5000000010000032246/bestzb/index.m3u8$4M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000001000030202/ystenlive/index.m3u8$4M1080_易视腾
+http://192.168.3.6:5000/TVOD/2000000002000000056/hnbblive/index.m3u8$2M720_湖南bblivehttp://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226898/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0uh4lyjjBCCN7TCq21vSIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://39.164.160.249:9901/tsfile/live/0107_1.m3u8
 http://39.134.65.164/PLTV/88888888/224/3221225672/1.m3u8
 http://39.134.65.179/PLTV/88888888/224/3221225672/1.m3u8
@@ -257,209 +257,209 @@ http://39.134.65.173/PLTV/88888888/224/3221225672/1.m3u8
 http://39.134.65.175/PLTV/88888888/224/3221225672/1.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221225942/1.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/天津卫视.png",天津卫视
-http://107.172.231.80:5010/TVOD/5000000004000006827/bestzb/index.m3u8$8M1080_百视通
-http://107.172.231.80:5010/TVOD/6000000001000009186/wasusyt/index.m3u8$8M1080_华数
-http://107.172.231.80:5010/TVOD/1000000001000003475/ystenlive/index.m3u8$8M1080_易视腾
-http://107.172.231.80:5010/TVOD/1000000005000265026/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
-http://107.172.231.80:5010/TVOD/5000000001000030788/bestzb/index.m3u8$4M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000001000000831/ystenlive/index.m3u8$4M1080_易视腾http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eaf3wyULP1h575eM_4ByMDg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://192.168.3.6:5000/TVOD/5000000004000006827/bestzb/index.m3u8$8M1080_百视通
+http://192.168.3.6:5000/TVOD/6000000001000009186/wasusyt/index.m3u8$8M1080_华数
+http://192.168.3.6:5000/TVOD/1000000001000003475/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/1000000005000265026/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.3.6:5000/TVOD/5000000001000030788/bestzb/index.m3u8$4M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000001000000831/ystenlive/index.m3u8$4M1080_易视腾http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eaf3wyULP1h575eM_4ByMDg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://220.164.192.48:50085/tsfile/live/0130_1.m3u8
 http://111.14.181.15:9901/tsfile/live/0135_1.m3u8
 http://39.134.65.166/PLTV/88888888/224/3221225665/1.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221225972/1.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/重庆卫视.png",重庆卫视
-http://107.172.231.80:5010/TVOD/1000000001000001096/ystenlive/index.m3u8$8M1080_易视腾
-http://107.172.231.80:5010/TVOD/5000000004000025797/bestzb/index.m3u8$6.8M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000005000265017/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
-http://107.172.231.80:5010/TVOD/1000000002000018937/ystenlive/index.m3u8$4M1080_易视腾http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226963/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjTXsJprEx2nE38tdvu5lhA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://192.168.3.6:5000/TVOD/1000000001000001096/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/5000000004000025797/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000005000265017/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.3.6:5000/TVOD/1000000002000018937/ystenlive/index.m3u8$4M1080_易视腾http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226963/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjTXsJprEx2nE38tdvu5lhA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://111.14.181.15:9901/tsfile/live/0142_1.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221225963/1.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/四川卫视.png",四川卫视
-http://107.172.231.80:5010/TVOD/5000000004000006119/bestzb/index.m3u8$7.5M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000002000016825/ystenlive/index.m3u8$4M1080_易视腾http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226995/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBQiz3wrGrpG0CUSRIJ-7Jg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://192.168.3.6:5000/TVOD/5000000004000006119/bestzb/index.m3u8$7.5M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000002000016825/ystenlive/index.m3u8$4M1080_易视腾http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226995/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBQiz3wrGrpG0CUSRIJ-7Jg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel31/1300.m3u8
 http://111.14.181.15:9901/tsfile/live/0123_1.m3u8
 http://ynxsj.7766.org:9901/tsfile/live/0123_1.m3u8?key=txiptv
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000330/index.m3u8?IAS
 http://39.134.67.108/PLTV/88888888/224/3221225970/1.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/云南卫视.png",云南卫视
-http://107.172.231.80:5010/TVOD/5000000011000031120/bestzb/index.m3u8$6.8M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000002000024694/ystenlive/index.m3u8$4M1080_易视腾
-http://107.172.231.80:5010/TVOD/5000000006000040019/bestzb/index.m3u8$4M540_百视通http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227028/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGfQPqRNVeBjTMsZ48qu0SA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://192.168.3.6:5000/TVOD/5000000011000031120/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000002000024694/ystenlive/index.m3u8$4M1080_易视腾
+http://192.168.3.6:5000/TVOD/5000000006000040019/bestzb/index.m3u8$4M540_百视通http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227028/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGfQPqRNVeBjTMsZ48qu0SA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/贵州卫视.png",贵州卫视
-http://107.172.231.80:5010/TVOD/5000000004000025843/bestzb/index.m3u8$8M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000002000003169/ystenlive/index.m3u8$4M1080_易视腾http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227012/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EnqBF03rFwPucF8ODtWxLQQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://192.168.3.6:5000/TVOD/5000000004000025843/bestzb/index.m3u8$8M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000002000003169/ystenlive/index.m3u8$4M1080_易视腾http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227012/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EnqBF03rFwPucF8ODtWxLQQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://39.164.160.249:9901/tsfile/live/0120_1.m3u8
 http://111.14.181.15:9901/tsfile/live/0120_1.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221225974/1.m3u8
 http://39.134.65.149/PLTV/88888888/224/3221225974/1.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/广东卫视.png",广东卫视
-http://107.172.231.80:5010/TVOD/5000000004000014694/bestzb/index.m3u8$8M1080_百视通
-http://107.172.231.80:5010/TVOD/6000000001000031076/wasusyt/index.m3u8$8M1080_华数
-http://107.172.231.80:5010/TVOD/1000000001000014176/ystenlive/index.m3u8$8M1080_易视腾
-http://107.172.231.80:5010/TVOD/1000000005000265034/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
-http://107.172.231.80:5010/TVOD/5000000010000030417/bestzb/index.m3u8$4M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000001000028357/ystenlive/index.m3u8$4M1080_易视腾http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2MGyx659D_aaDPP0qt3NgA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://192.168.3.6:5000/TVOD/5000000004000014694/bestzb/index.m3u8$8M1080_百视通
+http://192.168.3.6:5000/TVOD/6000000001000031076/wasusyt/index.m3u8$8M1080_华数
+http://192.168.3.6:5000/TVOD/1000000001000014176/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/1000000005000265034/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.3.6:5000/TVOD/5000000010000030417/bestzb/index.m3u8$4M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000001000028357/ystenlive/index.m3u8$4M1080_易视腾http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2MGyx659D_aaDPP0qt3NgA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://39.164.160.249:9901/tsfile/live/0125_1.m3u8
 http://111.14.181.15:9901/tsfile/live/0125_1.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221225966/1.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/深圳卫视.png",深圳卫视
-http://107.172.231.80:5010/TVOD/5000000004000007410/bestzb/index.m3u8$8M1080_百视通
-http://107.172.231.80:5010/TVOD/6000000001000002116/wasusyt/index.m3u8$8M1080_华数
-http://107.172.231.80:5010/TVOD/1000000001000009227/ystenlive/index.m3u8$8M1080_易视腾
-http://107.172.231.80:5010/TVOD/1000000005000265028/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
-http://107.172.231.80:5010/TVOD/5000000010000024026/bestzb/index.m3u8$4M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000001000011645/ystenlive/index.m3u8$4M1080_易视腾http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGrVNEZREjuNVKiTJo2mtwg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://192.168.3.6:5000/TVOD/5000000004000007410/bestzb/index.m3u8$8M1080_百视通
+http://192.168.3.6:5000/TVOD/6000000001000002116/wasusyt/index.m3u8$8M1080_华数
+http://192.168.3.6:5000/TVOD/1000000001000009227/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/1000000005000265028/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.3.6:5000/TVOD/5000000010000024026/bestzb/index.m3u8$4M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000001000011645/ystenlive/index.m3u8$4M1080_易视腾http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGrVNEZREjuNVKiTJo2mtwg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://58.57.40.22:9901/tsfile/live/1036_1.m3u8
 http://111.14.181.15:9901/tsfile/live/0126_1.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/东南卫视.png",东南卫视
-http://107.172.231.80:5010/TVOD/5000000004000010584/bestzb/index.m3u8$8M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000005000265033/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
-http://107.172.231.80:5010/TVOD/5000000001000005829/bestzb/index.m3u8$4M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000002000009263/ystenlive/index.m3u8$4M1080_易视腾http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226991/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQ6F5Mjgs0tJyEArWFL3vQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://192.168.3.6:5000/TVOD/5000000004000010584/bestzb/index.m3u8$8M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000005000265033/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.3.6:5000/TVOD/5000000001000005829/bestzb/index.m3u8$4M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000002000009263/ystenlive/index.m3u8$4M1080_易视腾http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226991/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQ6F5Mjgs0tJyEArWFL3vQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://220.164.192.48:50085/tsfile/live/0120_1.m3u8
 http://111.14.181.15:9901/tsfile/live/0137_1.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221225950/1.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/海南卫视.png",海南卫视
-http://107.172.231.80:5010/TVOD/5000000004000006211/bestzb/index.m3u8$8M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000002000023773/ystenlive/index.m3u8$4M1080_易视腾http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227029/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEuBMjt2kLMD8fAO7QYER7Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://192.168.3.6:5000/TVOD/5000000004000006211/bestzb/index.m3u8$8M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000002000023773/ystenlive/index.m3u8$4M1080_易视腾http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227029/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEuBMjt2kLMD8fAO7QYER7Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://220.164.192.48:50085/tsfile/live/1003_1.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221226026/1.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/广西卫视.png",广西卫视
-http://107.172.231.80:5010/TVOD/5000000011000031118/bestzb/index.m3u8$6.8M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000002000019837/ystenlive/index.m3u8$4M1080_易视腾
-http://107.172.231.80:5010/TVOD/5000000006000040014/bestzb/index.m3u8$4M540_百视通http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227010/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkAhb-89sxdm9fz6-heXCuw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://192.168.3.6:5000/TVOD/5000000011000031118/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000002000019837/ystenlive/index.m3u8$4M1080_易视腾
+http://192.168.3.6:5000/TVOD/5000000006000040014/bestzb/index.m3u8$4M540_百视通http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227010/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkAhb-89sxdm9fz6-heXCuw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://220.164.192.48:50085/tsfile/live/0112_1.m3u8
 http://111.14.181.15:9901/tsfile/live/0113_1.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221226024/1.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/湖北卫视.png",湖北卫视
-http://107.172.231.80:5010/TVOD/6000000001000015436/wasusyt/index.m3u8$8M1080_华数
-http://107.172.231.80:5010/TVOD/1000000001000024621/ystenlive/index.m3u8$8M1080_易视腾
-http://107.172.231.80:5010/TVOD/5000000004000014954/bestzb/index.m3u8$6.8M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000005000265023/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
-http://107.172.231.80:5010/TVOD/5000000010000022140/bestzb/index.m3u8$4M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000001000010355/ystenlive/index.m3u8$4M1080_易视腾http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226952/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EREB40lnZnCEwjRy7LZuhIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://192.168.3.6:5000/TVOD/6000000001000015436/wasusyt/index.m3u8$8M1080_华数
+http://192.168.3.6:5000/TVOD/1000000001000024621/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/5000000004000014954/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000005000265023/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.3.6:5000/TVOD/5000000010000022140/bestzb/index.m3u8$4M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000001000010355/ystenlive/index.m3u8$4M1080_易视腾http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226952/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EREB40lnZnCEwjRy7LZuhIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://60.12.183.46:9901/tsfile/live/0116_1.m3u8
 http://111.14.181.15:9901/tsfile/live/0132_1.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221225975/1.m3u8
 http://39.134.65.164/PLTV/88888888/224/3221225569/1.m3u8
 http://39.134.65.162/PLTV/88888888/224/3221225569/1.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/安徽卫视.png",安徽卫视
-http://107.172.231.80:5010/TVOD/6000000001000009954/wasusyt/index.m3u8$8M1080_华数
-http://107.172.231.80:5010/TVOD/1000000001000030159/ystenlive/index.m3u8$8M1080_易视腾
-http://107.172.231.80:5010/TVOD/5000000004000023002/bestzb/index.m3u8$7.5M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000005000265025/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
-http://107.172.231.80:5010/TVOD/5000000001000027288/bestzb/index.m3u8$4M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000001000020780/ystenlive/index.m3u8$4M1080_易视腾http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226943/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0QmKQ_slRCwvVVUUfxPVbw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://192.168.3.6:5000/TVOD/6000000001000009954/wasusyt/index.m3u8$8M1080_华数
+http://192.168.3.6:5000/TVOD/1000000001000030159/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/5000000004000023002/bestzb/index.m3u8$7.5M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000005000265025/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.3.6:5000/TVOD/5000000001000027288/bestzb/index.m3u8$4M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000001000020780/ystenlive/index.m3u8$4M1080_易视腾http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226943/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0QmKQ_slRCwvVVUUfxPVbw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://39.164.160.249:9901/tsfile/live/0130_1.m3u8
 http://111.14.181.15:9901/tsfile/live/0130_1.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221225925/1.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/江西卫视.png",江西卫视
-http://107.172.231.80:5010/TVOD/1000000006000268001/ystenlive/index.m3u8$8M1080_易视腾
-http://107.172.231.80:5010/TVOD/5000000004000011210/bestzb/index.m3u8$6.8M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000005000265032/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
-http://107.172.231.80:5010/TVOD/5000000001000032154/bestzb/index.m3u8$4M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000001000013731/ystenlive/index.m3u8$4M1080_易视腾http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ei6ZIpVizXlewg-YfGvH8dA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://192.168.3.6:5000/TVOD/1000000006000268001/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/5000000004000011210/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000005000265032/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.3.6:5000/TVOD/5000000001000032154/bestzb/index.m3u8$4M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000001000013731/ystenlive/index.m3u8$4M1080_易视腾http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ei6ZIpVizXlewg-YfGvH8dA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://39.164.160.249:9901/tsfile/live/0138_1.m3u8
 http://111.14.181.15:9901/tsfile/live/0138_1.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221225935/1.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/山东卫视.png",山东卫视
-http://107.172.231.80:5010/TVOD/6000000001000004134/wasusyt/index.m3u8$8M1080_华数
-http://107.172.231.80:5010/TVOD/1000000001000016568/ystenlive/index.m3u8$8M1080_易视腾
-http://107.172.231.80:5010/TVOD/5000000004000020424/bestzb/index.m3u8$6.8M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000005000265019/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
-http://107.172.231.80:5010/TVOD/5000000010000027763/bestzb/index.m3u8$4M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000001000012807/ystenlive/index.m3u8$4M1080_易视腾http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226957/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjW26v5VaHGy1jQuIA-4EbA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://192.168.3.6:5000/TVOD/6000000001000004134/wasusyt/index.m3u8$8M1080_华数
+http://192.168.3.6:5000/TVOD/1000000001000016568/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/5000000004000020424/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000005000265019/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.3.6:5000/TVOD/5000000010000027763/bestzb/index.m3u8$4M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000001000012807/ystenlive/index.m3u8$4M1080_易视腾http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226957/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjW26v5VaHGy1jQuIA-4EbA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://39.164.160.249:9901/tsfile/live/0131_1.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221225952/1.m3u8
 http://39.134.65.141/PLTV/88888888/224/3221225952/1.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/山西卫视.png",山西卫视
-http://107.172.231.80:5010/TVOD/1000000002000021220/ystenlive/index.m3u8$4M576_易视腾
-http://107.172.231.80:5010/TVOD/5000000006000040023/bestzb/index.m3u8$4M540_百视通http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227016/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESb5Qr3NTpE2ZugIroKoyTw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://192.168.3.6:5000/TVOD/1000000002000021220/ystenlive/index.m3u8$4M576_易视腾
+http://192.168.3.6:5000/TVOD/5000000006000040023/bestzb/index.m3u8$4M540_百视通http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227016/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESb5Qr3NTpE2ZugIroKoyTw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://220.164.192.48:50085/tsfile/live/0117_1.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221226009/1.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/河北卫视.png",河北卫视
-http://107.172.231.80:5010/TVOD/5000000006000040016/bestzb/index.m3u8$8M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000002000017118/ystenlive/index.m3u8$4M1080_易视腾http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227014/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErSGjhI3DMaaAASPrbQJYTg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://192.168.3.6:5000/TVOD/5000000006000040016/bestzb/index.m3u8$8M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000002000017118/ystenlive/index.m3u8$4M1080_易视腾http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227014/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErSGjhI3DMaaAASPrbQJYTg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://39.164.160.249:9901/tsfile/live/0117_1.m3u8
 http://111.14.181.15:9901/tsfile/live/0117_1.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221225961/1.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/河南卫视.png",河南卫视
-http://107.172.231.80:5010/TVOD/5000000011000031119/bestzb/index.m3u8$6.8M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000002000027731/ystenlive/index.m3u8$4M1080_易视腾
-http://107.172.231.80:5010/TVOD/5000000005000017925/bestzb/index.m3u8$4M720_百视通
+http://192.168.3.6:5000/TVOD/5000000011000031119/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000002000027731/ystenlive/index.m3u8$4M1080_易视腾
+http://192.168.3.6:5000/TVOD/5000000005000017925/bestzb/index.m3u8$4M720_百视通
 http://39.164.160.249:9901/tsfile/live/0139_1.m3u8
 http://111.14.181.15:9901/tsfile/live/0139_1.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/陕西卫视.png",陕西卫视
-http://107.172.231.80:5010/TVOD/1000000002000007495/ystenlive/index.m3u8$4M576_易视腾
-http://107.172.231.80:5010/TVOD/5000000006000040017/bestzb/index.m3u8$4M540_百视通http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226999/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsGLKaSqf0wDZMbAjeQtfyw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://192.168.3.6:5000/TVOD/1000000002000007495/ystenlive/index.m3u8$4M576_易视腾
+http://192.168.3.6:5000/TVOD/5000000006000040017/bestzb/index.m3u8$4M540_百视通http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226999/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsGLKaSqf0wDZMbAjeQtfyw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://39.164.160.249:9901/tsfile/live/0136_1.m3u8
 http://111.14.181.15:9901/tsfile/live/0136_1.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/甘肃卫视.png",甘肃卫视
-http://107.172.231.80:5010/TVOD/5000000011000031121/bestzb/index.m3u8$6.8M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000002000017827/ystenlive/index.m3u8$4M1080_易视腾
-http://107.172.231.80:5010/TVOD/5000000006000040021/bestzb/index.m3u8$4M540_百视通http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227003/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESco1zinvdUYzleEkXYhIvA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://192.168.3.6:5000/TVOD/5000000011000031121/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000002000017827/ystenlive/index.m3u8$4M1080_易视腾
+http://192.168.3.6:5000/TVOD/5000000006000040021/bestzb/index.m3u8$4M540_百视通http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227003/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESco1zinvdUYzleEkXYhIvA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://58.57.40.22:9901/tsfile/live/1056_1.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/西藏卫视.png",西藏卫视
-http://107.172.231.80:5010/TVOD/1000000002000015894/ystenlive/index.m3u8$4M576_易视腾http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227033/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EdeTB7OZ9G_VNJk5C3t96fQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://192.168.3.6:5000/TVOD/1000000002000015894/ystenlive/index.m3u8$4M576_易视腾http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227033/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EdeTB7OZ9G_VNJk5C3t96fQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://36.32.174.67:60080/newlive/live/hls/48/live.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221225951/1.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/新疆卫视.png",新疆卫视
-http://107.172.231.80:5010/TVOD/1000000002000029441/ystenlive/index.m3u8$4M576_易视腾
-http://107.172.231.80:5010/TVOD/5000000006000040018/bestzb/index.m3u8$4M540_百视通http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227011/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ExAUu61iVvo_xYbANWJhgXw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://192.168.3.6:5000/TVOD/1000000002000029441/ystenlive/index.m3u8$4M576_易视腾
+http://192.168.3.6:5000/TVOD/5000000006000040018/bestzb/index.m3u8$4M540_百视通http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227011/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ExAUu61iVvo_xYbANWJhgXw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://39.134.67.108/PLTV/88888888/224/3221225999/1.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/内蒙古卫视.png",内蒙古卫视
-http://107.172.231.80:5010/TVOD/1000000002000014080/ystenlive/index.m3u8$4M576_易视腾http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227018/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErN_hoRDwApMKnJqiNHvn9w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://192.168.3.6:5000/TVOD/1000000002000014080/ystenlive/index.m3u8$4M576_易视腾http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227018/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErN_hoRDwApMKnJqiNHvn9w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://111.61.236.247:9081/hls/48/index.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221226017/1.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/宁夏卫视.png",宁夏卫视
-http://107.172.231.80:5010/TVOD/1000000002000031451/ystenlive/index.m3u8$4M576_易视腾
-http://107.172.231.80:5010/TVOD/5000000006000040022/bestzb/index.m3u8$4M540_百视通http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227020/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Err-CLugPnTcUinEM8JeySg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://192.168.3.6:5000/TVOD/1000000002000031451/ystenlive/index.m3u8$4M576_易视腾
+http://192.168.3.6:5000/TVOD/5000000006000040022/bestzb/index.m3u8$4M540_百视通http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227020/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Err-CLugPnTcUinEM8JeySg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://58.57.40.22:9901/tsfile/live/1054_1.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221226028/1.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/青海卫视.png",青海卫视
-http://107.172.231.80:5010/TVOD/1000000002000013359/ystenlive/index.m3u8$4M1080_易视腾
-http://107.172.231.80:5010/TVOD/5000000006000040015/bestzb/index.m3u8$4M540_百视通http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227017/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EacviHy_ucMT27Ymf2iLtZA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://192.168.3.6:5000/TVOD/1000000002000013359/ystenlive/index.m3u8$4M1080_易视腾
+http://192.168.3.6:5000/TVOD/5000000006000040015/bestzb/index.m3u8$4M540_百视通http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227017/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EacviHy_ucMT27Ymf2iLtZA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://58.57.40.22:9901/tsfile/live/1057_1.m3u8
 http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=040419e21714225490
 http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=397a2b0a1717226499
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/黑龙江卫视.png",黑龙江卫视
-http://107.172.231.80:5010/TVOD/6000000001000016510/wasusyt/index.m3u8$8M1080_华数
-http://107.172.231.80:5010/TVOD/1000000001000001925/ystenlive/index.m3u8$8M1080_易视腾
-http://107.172.231.80:5010/TVOD/5000000004000025203/bestzb/index.m3u8$6.8M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000005000265029/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
-http://107.172.231.80:5010/TVOD/5000000010000031107/bestzb/index.m3u8$4M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000001000009082/ystenlive/index.m3u8$4M1080_易视腾http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226965/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7UiKL56-L86ihmTWaZ6csw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://192.168.3.6:5000/TVOD/6000000001000016510/wasusyt/index.m3u8$8M1080_华数
+http://192.168.3.6:5000/TVOD/1000000001000001925/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/5000000004000025203/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000005000265029/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.3.6:5000/TVOD/5000000010000031107/bestzb/index.m3u8$4M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000001000009082/ystenlive/index.m3u8$4M1080_易视腾http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226965/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7UiKL56-L86ihmTWaZ6csw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://39.164.160.249:9901/tsfile/live/0143_1.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/吉林卫视.png",吉林卫视
-http://107.172.231.80:5010/TVOD/5000000011000031117/bestzb/index.m3u8$6.8M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000002000027730/ystenlive/index.m3u8$4M1080_易视腾
-http://107.172.231.80:5010/TVOD/5000000006000040013/bestzb/index.m3u8$4M540_百视通http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227015/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EW5-3AVdwD5KlUpuA4mz7Cg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://192.168.3.6:5000/TVOD/5000000011000031117/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000002000027730/ystenlive/index.m3u8$4M1080_易视腾
+http://192.168.3.6:5000/TVOD/5000000006000040013/bestzb/index.m3u8$4M540_百视通http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227015/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EW5-3AVdwD5KlUpuA4mz7Cg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://111.14.181.15:9901/tsfile/live/0116_1.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221226013/1.m3u8
 http://39.134.65.149/PLTV/88888888/224/3221225981/1.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/辽宁卫视.png",辽宁卫视
-http://107.172.231.80:5010/TVOD/5000000004000011671/bestzb/index.m3u8$8M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000001000001945/ystenlive/index.m3u8$8M1080_易视腾
-http://107.172.231.80:5010/TVOD/1000000005000265022/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
-http://107.172.231.80:5010/TVOD/5000000001000008940/bestzb/index.m3u8$4M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000002000024033/ystenlive/index.m3u8$4M1080_易视腾http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226966/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E6qJH8Fd-zgCGx3P-Ce86cA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://192.168.3.6:5000/TVOD/5000000004000011671/bestzb/index.m3u8$8M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000001000001945/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/1000000005000265022/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.3.6:5000/TVOD/5000000001000008940/bestzb/index.m3u8$4M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000002000024033/ystenlive/index.m3u8$4M1080_易视腾http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226966/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E6qJH8Fd-zgCGx3P-Ce86cA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://39.164.160.249:9901/tsfile/live/0121_1.m3u8
 http://111.14.181.15:9901/tsfile/live/0121_1.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/厦门卫视.png",厦门卫视
-http://107.172.231.80:5010/TVOD/1000000005000266006/ystenlive/index.m3u8$4M576_易视腾
+http://192.168.3.6:5000/TVOD/1000000005000266006/ystenlive/index.m3u8$4M576_易视腾
 http://220.164.192.48:50085/tsfile/live/1004_1.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/大湾区卫视.png",大湾区卫视
-http://107.172.231.80:5010/TVOD/2000000003000000045/hnbblive/index.m3u8$4M576_湖南bblive
-http://107.172.231.80:5010/TVOD/1000000002000011619/ystenlive/index.m3u8$4M576_易视腾http://mzitv.cn:32/tsfile/live/1012_1.m3u8
+http://192.168.3.6:5000/TVOD/2000000003000000045/hnbblive/index.m3u8$4M576_湖南bblive
+http://192.168.3.6:5000/TVOD/1000000002000011619/ystenlive/index.m3u8$4M576_易视腾http://mzitv.cn:32/tsfile/live/1012_1.m3u8
 http://gmxw.7766.org:808/hls/132/index.m3u8
 http://183.11.239.36:808/hls/132/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/三沙卫视.png",三沙卫视
 http://119.36.148.115:59901/tsfile/live/1009_1.m3u8
 https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/兵团卫视.png",兵团卫视
-http://107.172.231.80:5010/TVOD/1000000005000266005/ystenlive/index.m3u8$4M576_易视腾
-http://107.172.231.80:5010/TVOD/5000000006000040020/bestzb/index.m3u8$4M540_百视通
+http://192.168.3.6:5000/TVOD/1000000005000266005/ystenlive/index.m3u8$4M576_易视腾
+http://192.168.3.6:5000/TVOD/5000000006000040020/bestzb/index.m3u8$4M540_百视通
 https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 
 #EXTINF:-1 group-title="湾区掠影" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/凤凰中文.png",凤凰中文
@@ -849,42 +849,42 @@ http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 #EXTINF:-1 group-title="全球视野" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/EUROSPORT.png",欧洲体育
 http://europa-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 group-title="全球视野" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CGTNjilu.png",CGTN 纪录
-http://107.172.231.80:5010/TVOD/7114647837765104058/hnbblive/index.m3u8$8M1080_湖南bblivehttps://0472.org/hls/cgtnd.m3u8
+http://192.168.3.6:5000/TVOD/7114647837765104058/hnbblive/index.m3u8$8M1080_湖南bblivehttps://0472.org/hls/cgtnd.m3u8
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227006/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EYcJ3PdHkzUJtmPevi5x_2A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="全球视野" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CGTN.png",CGTN 英语
-http://107.172.231.80:5010/TVOD/7745129417417101820/hnbblive/index.m3u8$8M1080_湖南bblive
-http://107.172.231.80:5010/TVOD/1000000002000009569/ystenlive/index.m3u8$4M576_易视腾https://0472.org/hls/cgtn.m3u8
+http://192.168.3.6:5000/TVOD/7745129417417101820/hnbblive/index.m3u8$8M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/1000000002000009569/ystenlive/index.m3u8$4M576_易视腾https://0472.org/hls/cgtn.m3u8
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226987/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eb26wc0XXKkqPiVtXlNQMiQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="全球视野" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CGTNey.png",CGTN 俄语
-http://107.172.231.80:5010/TVOD/1000000006000280004/ystenlive/index.m3u8$4M576_易视腾https://0472.org/hls/cgtne.m3u8
+http://192.168.3.6:5000/TVOD/1000000006000280004/ystenlive/index.m3u8$4M576_易视腾https://0472.org/hls/cgtne.m3u8
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227038/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EnNP_kmf5g3OZQXDWZHNpOA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="全球视野" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CGTNfy.png",CGTN 法语
-http://107.172.231.80:5010/TVOD/1000000006000280003/ystenlive/index.m3u8$4M576_易视腾https://0472.org/hls/cgtnf.m3u8
+http://192.168.3.6:5000/TVOD/1000000006000280003/ystenlive/index.m3u8$4M576_易视腾https://0472.org/hls/cgtnf.m3u8
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227034/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EnmNWt4gIKrkCWjuWofLapQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="全球视野" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CGTNxbyy.png",CGTN 西语
-http://107.172.231.80:5010/TVOD/1000000006000280002/ystenlive/index.m3u8$4M576_易视腾https://0472.org/hls/cgtnx.m3u8
+http://192.168.3.6:5000/TVOD/1000000006000280002/ystenlive/index.m3u8$4M576_易视腾https://0472.org/hls/cgtnx.m3u8
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227030/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWR3JI0iklU2klIzSzhH6nA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="全球视野" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CGTNalby.png",CGTN 阿语
-http://107.172.231.80:5010/TVOD/1000000006000280001/ystenlive/index.m3u8$4M576_易视腾https://0472.org/hls/cgtna.m3u8
+http://192.168.3.6:5000/TVOD/1000000006000280001/ystenlive/index.m3u8$4M576_易视腾https://0472.org/hls/cgtna.m3u8
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227023/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsOnjStoSIBiRDXRm4N42Zw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 
 #EXTINF:-1 group-title="竞技赛事" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV5.png",CCTV-5 体育
-http://107.172.231.80:5010/TVOD/6000000001000016431/wasusyt/index.m3u8$8M1080_华数
-http://107.172.231.80:5010/TVOD/1000000003000030177/ystenlive/index.m3u8$8M1080_易视腾
-http://107.172.231.80:5010/TVOD/5000000004000008885/bestzb/index.m3u8$6.8M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000005000265005/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
-http://107.172.231.80:5010/TVOD/1000000005000025222/ystenlive/index.m3u8$12M1080_易视腾
-http://107.172.231.80:5010/TVOD/5000000010000016619/bestzb/index.m3u8$4M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000001000004794/ystenlive/index.m3u8$4M1080_易视腾http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
+http://192.168.3.6:5000/TVOD/6000000001000016431/wasusyt/index.m3u8$8M1080_华数
+http://192.168.3.6:5000/TVOD/1000000003000030177/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/5000000004000008885/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000005000265005/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.3.6:5000/TVOD/1000000005000025222/ystenlive/index.m3u8$12M1080_易视腾
+http://192.168.3.6:5000/TVOD/5000000010000016619/bestzb/index.m3u8$4M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000001000004794/ystenlive/index.m3u8$4M1080_易视腾http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
 http://111.29.9.33:6610/000000001000/1000000001000004794/index.m3u8?channel-id=bestzb&Contentid=1000000001000004794&livemode=1&stbId=3
 http://183.223.157.33:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EevWZ0zmguDsOY_Mf3SM5TA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="竞技赛事" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV5+.png",CCTV-5+ 体育赛事
-http://107.172.231.80:5010/TVOD/6000000001000015875/wasusyt/index.m3u8$8M1080_华数
-http://107.172.231.80:5010/TVOD/1000000001000018504/ystenlive/index.m3u8$8M1080_易视腾
-http://107.172.231.80:5010/TVOD/5000000011000031127/bestzb/index.m3u8$6.8M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000005000265016/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
-http://107.172.231.80:5010/TVOD/1000000001000020505/ystenlive/index.m3u8$4M1080_易视腾http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
+http://192.168.3.6:5000/TVOD/6000000001000015875/wasusyt/index.m3u8$8M1080_华数
+http://192.168.3.6:5000/TVOD/1000000001000018504/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/5000000011000031127/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000005000265016/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.3.6:5000/TVOD/1000000001000020505/ystenlive/index.m3u8$4M1080_易视腾http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
 http://60.209.125.254:352/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 http://111.29.9.33:6610/000000001000/1000000001000020505/index.m3u8?channel-id=bestzb&Contentid=1000000001000020505&livemode=1&stbId=3
 http://183.223.157.33:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -892,11 +892,11 @@ http://218.58.136.82:352/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 http://60.214.104.110:352/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EevWZ0zmguDsOY_Mf3SM5TA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="竞技赛事" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV16.png",CCTV-16 奥林匹克
-http://107.172.231.80:5010/TVOD/1000000006000233002/ystenlive/index.m3u8$8M1080_易视腾
-http://107.172.231.80:5010/TVOD/5000000008000023254/bestzb/index.m3u8$12M2160HEVC_百视通
-http://107.172.231.80:5010/TVOD/5000000008000023253/bestzb/index.m3u8$6.8M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000006000233001/ystenlive/index.m3u8$4M1080_易视腾
-http://107.172.231.80:5010/TVOD/5000000008000023254/bestzb/index.m3u8$12M2160HEVC_百视通http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
+http://192.168.3.6:5000/TVOD/1000000006000233002/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/5000000008000023254/bestzb/index.m3u8$12M2160HEVC_百视通
+http://192.168.3.6:5000/TVOD/5000000008000023253/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000006000233001/ystenlive/index.m3u8$4M1080_易视腾
+http://192.168.3.6:5000/TVOD/5000000008000023254/bestzb/index.m3u8$12M2160HEVC_百视通http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
 https://yunmei.tv/main/cctv-16.m3u8
 http://219.135.180.210:18888/hls/31/index.m3u8
 http://58.17.48.228:808/hls/25/index.m3u8
@@ -909,32 +909,32 @@ http://[2409:8087:1a01:df::4005]:80/TVOD/88888888/224/3221225526/main.m3u8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/6460382139625130259/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000014634/1.m3u8
 #EXTINF:-1 group-title="竞技赛事" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/MG.png",咪咕全民热练
-http://107.172.231.80:5010/TVOD/2000000003000000068/hnbblive/index.m3u8$8M1080_湖南bblive
-http://107.172.231.80:5010/TVOD/1000000006000270007/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/2000000003000000068/hnbblive/index.m3u8$8M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/1000000006000270007/ystenlive/index.m3u8$8M1080_易视腾
 #EXTINF:-1 group-title="竞技赛事" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/LiveTV.png",睛彩竞技
-http://107.172.231.80:5010/TVOD/2000000003000000060/hnbblive/index.m3u8$8M1080_湖南bblive
-http://107.172.231.80:5010/TVOD/1000000006000270001/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/2000000003000000060/hnbblive/index.m3u8$8M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/1000000006000270001/ystenlive/index.m3u8$8M1080_易视腾
 http://[2409:8087:1a01:df::4061]:80/TVOD/88888888/224/3221225899/main.m3u8
 http://[2409:8087:1a01:df::7005]:80/TVOD/88888888/224/3221225897/main.m3u8
 http://[2409:8087:1a01:df::4009]:80/TVOD/88888888/224/3221225897/main.m3u8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270005/1.m3u8
 #EXTINF:-1 group-title="竞技赛事" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/LiveTV.png",睛彩篮球
-http://107.172.231.80:5010/TVOD/2000000003000000061/hnbblive/index.m3u8$8M1080_湖南bblive
-http://107.172.231.80:5010/TVOD/2000000003000000065/hnbblive/index.m3u8$8M1080_湖南bblive
-http://107.172.231.80:5010/TVOD/1000000006000270002/ystenlive/index.m3u8$8M1080_易视腾
-http://107.172.231.80:5010/TVOD/1000000006000270006/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/2000000003000000061/hnbblive/index.m3u8$8M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/2000000003000000065/hnbblive/index.m3u8$8M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/1000000006000270002/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/1000000006000270006/ystenlive/index.m3u8$8M1080_易视腾
 http://[2409:8087:1a01:df::7005]:80/TVOD/88888888/224/3221226027/main.m3u8
 http://[2409:8087:1a01:df::4055]:80/TVOD/88888888/224/3221225901/main.m3u8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270002/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000270006/1.m3u8
 #EXTINF:-1 group-title="竞技赛事" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/MG.png",咪咕睛彩广场舞
-http://107.172.231.80:5010/TVOD/2000000003000000062/hnbblive/index.m3u8$8M1080_湖南bblive
-http://107.172.231.80:5010/TVOD/2000000003000000064/hnbblive/index.m3u8$8M1080_湖南bblive
-http://107.172.231.80:5010/TVOD/1000000006000270003/ystenlive/index.m3u8$8M1080_易视腾
-http://107.172.231.80:5010/TVOD/1000000006000270005/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/2000000003000000062/hnbblive/index.m3u8$8M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/2000000003000000064/hnbblive/index.m3u8$8M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/1000000006000270003/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/1000000006000270005/ystenlive/index.m3u8$8M1080_易视腾
 #EXTINF:-1 group-title="竞技赛事" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/MG.png",咪咕视频
-http://107.172.231.80:5010/TVOD/2000000003000000063/hnbblive/index.m3u8$8M1080_湖南bblive
-http://107.172.231.80:5010/TVOD/1000000006000270004/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/2000000003000000063/hnbblive/index.m3u8$8M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/1000000006000270004/ystenlive/index.m3u8$8M1080_易视腾
 http://gslbserv.itv.cmvideo.cn:80/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=3
 http://php.jdshipin.com/itv6.php?cid=FifastbLive&id=3000000010000005180
 #EXTINF:-1 group-title="竞技赛事" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/LiveTV.png",咪咕体育4K
@@ -945,8 +945,8 @@ http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000007755/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009601/1.m3u8
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000009204/1.m3u8
 #EXTINF:-1 group-title="竞技赛事" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/LiveTV.png",魅力足球
-http://107.172.231.80:5010/TVOD/5000000011000031207/bestzb/index.m3u8$7M1080_百视通
-http://107.172.231.80:5010/TVOD/2000000002000000068/hnbblive/index.m3u8$7M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/5000000011000031207/bestzb/index.m3u8$7M1080_百视通
+http://192.168.3.6:5000/TVOD/2000000002000000068/hnbblive/index.m3u8$7M1080_湖南bblive
 http://117.161.12.124/live/program/live/mlyyhd/4000000/mnf.m3u8
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031207
 http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000011000031207/1.m3u8
@@ -967,8 +967,8 @@ http://origin.lean.org.cn:4000/udp/239.45.3.210:5140
 http://www.17888.fun:10000/udp/239.45.3.210:5140
 http://117.161.12.124/live/program/live/ssty/4000000/mnf.m3u8
 #EXTINF:-1 group-title="竞技赛事" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/LiveTV.png",劲爆体育
-http://107.172.231.80:5010/TVOD/5000000002000029972/bestzb/index.m3u8$4M1080_百视通
-http://107.172.231.80:5010/TVOD/2000000002000000008/hnbblive/index.m3u8$1.2M540_湖南bblive
+http://192.168.3.6:5000/TVOD/5000000002000029972/bestzb/index.m3u8$4M1080_百视通
+http://192.168.3.6:5000/TVOD/2000000002000000008/hnbblive/index.m3u8$1.2M540_湖南bblive
 http://php.jdshipin.com/itv6s.php?cid=hnbblive&id=2000000002000000008
 #EXTINF:-1 group-title="竞技赛事" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/LiveTV.png",爱体育
 http://php.jdshipin.com/itv6s.php?cid=wasusyt&id=6000000006000290630
@@ -977,11 +977,11 @@ http://hls.szsummer.cn/live/446035/playlist.m3u8?k=32f9ec7c13e4b390289143a8e1b2a
 #EXTINF:-1 group-title="竞技赛事" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/LiveTV.png",澳视体育
 http://live5.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 group-title="竞技赛事" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/LiveTV.png",哒啵赛事
-http://107.172.231.80:5010/TVOD/2000000003000000004/hnbblive/index.m3u8$4M1080_湖南bblive
-http://107.172.231.80:5010/TVOD/2000000003000000039/hnbblive/index.m3u8$4M1080_湖南bblive
-http://107.172.231.80:5010/TVOD/2000000003000000040/hnbblive/index.m3u8$4M1080_湖南bblive
-http://107.172.231.80:5010/TVOD/1000000001000003775/ystenlive/index.m3u8$4M1080_易视腾
-http://107.172.231.80:5010/TVOD/1000000001000006906/ystenlive/index.m3u8$4M1080_易视腾
+http://192.168.3.6:5000/TVOD/2000000003000000004/hnbblive/index.m3u8$4M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/2000000003000000039/hnbblive/index.m3u8$4M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/2000000003000000040/hnbblive/index.m3u8$4M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/1000000001000003775/ystenlive/index.m3u8$4M1080_易视腾
+http://192.168.3.6:5000/TVOD/1000000001000006906/ystenlive/index.m3u8$4M1080_易视腾
 http://[2409:8087:5e00:24::10]:6060/200000001898/460000089800010120/1.m3u8
 #EXTINF:-1 group-title="竞技赛事" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/LiveTV.png",天元围棋
 http://ddns.cyruslee.top:8888/udp/239.253.43.98:5146
@@ -1005,8 +1005,8 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/1.m3u8?
 http://php.jdshipin.com/TVOD/iptv.php?id=gefwq
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/1.m3u8?m3u8_level=2
 #EXTINF:-1 group-title="竞技赛事" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/LiveTV.png",快乐垂钓
-http://107.172.231.80:5010/TVOD/5000000011000031206/bestzb/index.m3u8$6.8M1080_百视通
-http://107.172.231.80:5010/TVOD/2000000002000000067/hnbblive/index.m3u8$6.8M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/5000000011000031206/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.3.6:5000/TVOD/2000000002000000067/hnbblive/index.m3u8$6.8M1080_湖南bblive
 http://php.jdshipin.com/itv6.php?cid=bestzb&id=5000000011000031206
 #EXTINF:-1 group-title="竞技赛事" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/LiveTV.png",四海钓鱼
 http://php.jdshipin.com/cqyx.php?id=diaoyu
@@ -1020,12 +1020,12 @@ http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
 
 #EXTINF:-1 group-title="数字剧院" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/纯享4K.png",纯享4K
-http://107.172.231.80:5010/TVOD/1000000004000011651/ystenlive/index.m3u8$20M2160_易视腾
+http://192.168.3.6:5000/TVOD/1000000004000011651/ystenlive/index.m3u8$20M2160_易视腾
 #EXTINF:-1 group-title="数字剧院" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/欢笑剧场4K.png",欢笑剧场4K
-http://107.172.231.80:5010/TVOD/5000000007000010001/bestzb/index.m3u8$12M2160HEVC_百视通
+http://192.168.3.6:5000/TVOD/5000000007000010001/bestzb/index.m3u8$12M2160HEVC_百视通
 #EXTINF:-1 group-title="数字剧院" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/华数4K.png",华数4K
-http://107.172.231.80:5010/TVOD/6000000003000004748/wasusyt/index.m3u8$16M2160_华数
-http://107.172.231.80:5010/TVOD/2000000004000000014/hnbblive/index.m3u8$15M2160_湖南bblive
+http://192.168.3.6:5000/TVOD/6000000003000004748/wasusyt/index.m3u8$16M2160_华数
+http://192.168.3.6:5000/TVOD/2000000004000000014/hnbblive/index.m3u8$15M2160_湖南bblive
 #EXTINF:-1 group-title="数字剧院" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/直播中国.png",直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 #EXTINF:-1 group-title="数字剧院" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CHC1.png",CHC动作电影
@@ -1039,25 +1039,25 @@ https://www.freetv.top/migu/644368373.m3u8?migutoken=893aa32f9d861d92c0661b8125e
 #EXTINF:-1 group-title="数字剧院" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CHC3.png",CHC影迷电影
 http://180.213.174.225:9901/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="数字剧院" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/Qiusuo1.png",求索纪录
-http://107.172.231.80:5010/TVOD/6000000002000032052/wasusyt/index.m3u8$8M1080_华数
-http://107.172.231.80:5010/TVOD/2000000004000000010/hnbblive/index.m3u8$7.5M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/6000000002000032052/wasusyt/index.m3u8$8M1080_华数
+http://192.168.3.6:5000/TVOD/2000000004000000010/hnbblive/index.m3u8$7.5M1080_湖南bblive
 http://119.8.31.109:35455/itv/6000000002000032052.m3u8?cdn=wasusyt
 http://39.134.66.66/PLTV/88888888/224/3221225713/index.m3u8
 #EXTINF:-1 group-title="数字剧院" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/Qiusuo2.png",求索科学
-http://107.172.231.80:5010/TVOD/6000000002000032344/wasusyt/index.m3u8$8M1080_华数
-http://107.172.231.80:5010/TVOD/2000000004000000011/hnbblive/index.m3u8$7.5M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/6000000002000032344/wasusyt/index.m3u8$8M1080_华数
+http://192.168.3.6:5000/TVOD/2000000004000000011/hnbblive/index.m3u8$7.5M1080_湖南bblive
 http://tv.kmhlzxs.top:35455/itv/6000000002000032344.m3u8?cdn=wasusyt
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000011/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000011&IASHttpSessionId=OTT19019320240419154124000281
 http://39.134.66.66/PLTV/88888888/224/3221225728/index.m3u8
 #EXTINF:-1 group-title="数字剧院" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/Qiusuo3.png",求索动物
-http://107.172.231.80:5010/TVOD/6000000002000010046/wasusyt/index.m3u8$8M1080_华数
-http://107.172.231.80:5010/TVOD/2000000004000000009/hnbblive/index.m3u8$7.5M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/6000000002000010046/wasusyt/index.m3u8$8M1080_华数
+http://192.168.3.6:5000/TVOD/2000000004000000009/hnbblive/index.m3u8$7.5M1080_湖南bblive
 http://tv.kmhlzxs.top:35455/itv/6000000002000010046.m3u8?cdn=wasusyt
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000009/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000009&IASHttpSessionId=OTT19019320240419154124000281
 http://39.134.66.66/PLTV/88888888/224/3221225730/index.m3u8
 #EXTINF:-1 group-title="数字剧院" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/Qiusuo4.png",求索生活
-http://107.172.231.80:5010/TVOD/6000000002000003382/wasusyt/index.m3u8$8M1080_华数
-http://107.172.231.80:5010/TVOD/2000000004000000008/hnbblive/index.m3u8$7.5M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/6000000002000003382/wasusyt/index.m3u8$8M1080_华数
+http://192.168.3.6:5000/TVOD/2000000004000000008/hnbblive/index.m3u8$7.5M1080_湖南bblive
 http://b.zgjok.com:35455/itv/6000000002000003382.m3u8?cdn=wasusyt
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000008&IASHttpSessionId=OTT19019320240419154124000281
 http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
@@ -1141,15 +1141,15 @@ http://cdn.jdshipin.com:8880/ysp.php?id=dszn
 #EXTINF:-1 group-title="数字剧院" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CETV1.png",CETV-1 综合教育
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227021/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ELlgU9sgTT7iMtFgKHFa-dA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226494/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EB8MrpAzJ_Bw12HHVBcZO6g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNONWWecbSKZXNjh_5hExtTC%2CEND
-http://107.172.231.80:5010/TVOD/5000000002000002652/bestzb/index.m3u8$4M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000002000027253/ystenlive/index.m3u8$4M576_易视腾
-http://107.172.231.80:5010/TVOD/6000000003000018981/wasusyt/index.m3u8$1.8M576_华数
+http://192.168.3.6:5000/TVOD/5000000002000002652/bestzb/index.m3u8$4M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000002000027253/ystenlive/index.m3u8$4M576_易视腾
+http://192.168.3.6:5000/TVOD/6000000003000018981/wasusyt/index.m3u8$1.8M576_华数
 http://www.8700956.top:18888/rtp/239.81.1.060:4056
 #EXTINF:-1 group-title="数字剧院" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CETV2.png",CETV-2 空中课堂
 http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226537/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7AxXs4eTU2oiWrhopr9sHw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNxsM0Bor098BJglrhfEQTl%2CEND
-http://107.172.231.80:5010/TVOD/2000000003000000047/hnbblive/index.m3u8$4M576_湖南bblive
-http://107.172.231.80:5010/TVOD/1000000005000266004/ystenlive/index.m3u8$4M576_易视腾
-http://107.172.231.80:5010/TVOD/5000000011000031201/bestzb/index.m3u8$2.5M576_百视通
+http://192.168.3.6:5000/TVOD/2000000003000000047/hnbblive/index.m3u8$4M576_湖南bblive
+http://192.168.3.6:5000/TVOD/1000000005000266004/ystenlive/index.m3u8$4M576_易视腾
+http://192.168.3.6:5000/TVOD/5000000011000031201/bestzb/index.m3u8$2.5M576_百视通
 http://www.8700956.top:18888/rtp/239.81.1.061:4056
 http://www.8700956.top:18888/rtp/239.81.0.245:4056
 #EXTINF:-1 group-title="数字剧院" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CETV3.png",CETV-3 教育服务
@@ -1158,10 +1158,10 @@ https://iptv.luas.edu.cn/liverespath/3a13f3b554cd6c3764599392bb43650e4e015b87/2f
 #EXTINF:-1 group-title="数字剧院" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CETV4.png",CETV-4 职业教育
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226997/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EAw_OvjRgJVjtlaOa0dcgzg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226557/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBzZToIaOOoaa_jAUfhUQHQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOD9BEmVSNbqSQpqXZxnxbk%2CEND
-http://107.172.231.80:5010/TVOD/5000000011000031126/bestzb/index.m3u8$6.8M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000005000025333/ystenlive/index.m3u8$4M576_易视腾
-http://107.172.231.80:5010/TVOD/5000000006000012123/bestzb/index.m3u8$2.5M576_百视通
-http://107.172.231.80:5010/TVOD/6000000005000042312/wasusyt/index.m3u8$1.8M576_华数
+http://192.168.3.6:5000/TVOD/5000000011000031126/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000005000025333/ystenlive/index.m3u8$4M576_易视腾
+http://192.168.3.6:5000/TVOD/5000000006000012123/bestzb/index.m3u8$2.5M576_百视通
+http://192.168.3.6:5000/TVOD/6000000005000042312/wasusyt/index.m3u8$1.8M576_华数
 http://www.8700956.top:18888/rtp/239.81.1.063:4056
 http://www.8700956.top:18888/rtp/239.81.0.246:4056
 http://www.8700956.top:18888/rtp/239.81.0.188:4056
@@ -1207,12 +1207,12 @@ https://epg.pw/stream/10b13c4691a0efcd77389486509b116b3eaf0ad1fd1223f87e527527e4
 http://123.112.210.212:4022/rtp/239.3.1.232:8000
 #EXTINF:-1 group-title="地方特色" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/BTV科教.png",北京纪实科教
 http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226434/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ejj3PtVjzl6ZzFdM-Vi1dmQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPJa61jREJv4ZfZigyrxX0U%2CEND
-http://107.172.231.80:5010/TVOD/1000000001000001910/ystenlive/index.m3u8$8M1080_易视腾
-http://107.172.231.80:5010/TVOD/5000000011000031204/bestzb/index.m3u8$6.8M1080_百视通
-http://107.172.231.80:5010/TVOD/2000000002000000065/hnbblive/index.m3u8$6.8M1080_湖南bblive
-http://107.172.231.80:5010/TVOD/1000000005000265020/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
-http://107.172.231.80:5010/TVOD/2000000003000000026/hnbblive/index.m3u8$4M1080_湖南bblive
-http://107.172.231.80:5010/TVOD/1000000001000028380/ystenlive/index.m3u8$4M1080_易视腾
+http://192.168.3.6:5000/TVOD/1000000001000001910/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/5000000011000031204/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.3.6:5000/TVOD/2000000002000000065/hnbblive/index.m3u8$6.8M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/1000000005000265020/ystenlive/index.m3u8$5.5M1080HEVC_易视腾
+http://192.168.3.6:5000/TVOD/2000000003000000026/hnbblive/index.m3u8$4M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/1000000001000028380/ystenlive/index.m3u8$4M1080_易视腾
 http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 #EXTINF:-1 group-title="地方特色" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/BTV体育.png",北京体育
 http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226438/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EeVAybrHg955d_IRT9e_uHQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMLCKqkSfuGOusJwBMwlCbz%2CEND
@@ -1240,9 +1240,9 @@ http://ali.hlspull.yximgs.com/live/huanqiuhklivephxehmffjuxcxjvejejyhmnjjxjjhjdh
 #EXTINF:-1 group-title="地方特色" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/Beijingjishi.png",北京冬奥纪实
 http://123.113.111.37:4022/rtp/239.3.1.243:8000
 #EXTINF:-1 group-title="地方特色" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/Beijing8.png",北京卡酷少儿
-http://107.172.231.80:5010/TVOD/7851974109718180595/bestzb/index.m3u8$6.8M1080_百视通
-http://107.172.231.80:5010/TVOD/1000000002000002413/ystenlive/index.m3u8$4M576_易视腾
-http://107.172.231.80:5010/TVOD/6000000003000002709/wasusyt/index.m3u8$1.8M576_华数http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227024/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjvuDD-WqVkjs3cnfSInf6A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+http://192.168.3.6:5000/TVOD/7851974109718180595/bestzb/index.m3u8$6.8M1080_百视通
+http://192.168.3.6:5000/TVOD/1000000002000002413/ystenlive/index.m3u8$4M576_易视腾
+http://192.168.3.6:5000/TVOD/6000000003000002709/wasusyt/index.m3u8$1.8M576_华数http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227024/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjvuDD-WqVkjs3cnfSInf6A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="地方特色" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/Beijing.png",北京8K
 http://192.168.123.1:23234/rtp/228.1.1.217:8002
 #EXTINF:-1 group-title="地方特色" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/bj4kcq.png",北京IPTV 4K高清
@@ -1253,109 +1253,109 @@ http://123.113.111.37:4022/rtp/239.3.1.236:2000
 http://192.168.123.1:23234/rtp/228.1.1.38:2000
 
 #EXTINF:-1 group-title="NewTV" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/NewTV25.png",NewTV爱情喜剧
-http://107.172.231.80:5010/TVOD/2000000003000000010/hnbblive/index.m3u8$4M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/2000000003000000010/hnbblive/index.m3u8$4M1080_湖南bblive
 http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
 #EXTINF:-1 group-title="NewTV" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/NewTV25.png",NewTV超级电视剧
-http://107.172.231.80:5010/TVOD/1000000006000268003/ystenlive/index.m3u8$8M1080_易视腾
-http://107.172.231.80:5010/TVOD/2000000003000000032/hnbblive/index.m3u8$4M1080_湖南bblive
-http://107.172.231.80:5010/TVOD/1000000001000008139/ystenlive/index.m3u8$4M1080_易视腾
-http://107.172.231.80:5010/TVOD/1000000004000024993/ystenlive/index.m3u8$4M1080_易视腾
+http://192.168.3.6:5000/TVOD/1000000006000268003/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/2000000003000000032/hnbblive/index.m3u8$4M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/1000000001000008139/ystenlive/index.m3u8$4M1080_易视腾
+http://192.168.3.6:5000/TVOD/1000000004000024993/ystenlive/index.m3u8$4M1080_易视腾
 http://39.134.66.66/PLTV/88888888/224/3221225637/index.m3u8
 #EXTINF:-1 group-title="NewTV" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/NewTV23.png",NewTV超级电影
-http://107.172.231.80:5010/TVOD/1000000003000012426/ystenlive/index.m3u8$8M1080_易视腾
-http://107.172.231.80:5010/TVOD/2000000003000000031/hnbblive/index.m3u8$4M1080_湖南bblive
-http://107.172.231.80:5010/TVOD/1000000001000012884/ystenlive/index.m3u8$4M1080_易视腾
-http://107.172.231.80:5010/TVOD/1000000004000002120/ystenlive/index.m3u8$4M1080_易视腾
+http://192.168.3.6:5000/TVOD/1000000003000012426/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/2000000003000000031/hnbblive/index.m3u8$4M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/1000000001000012884/ystenlive/index.m3u8$4M1080_易视腾
+http://192.168.3.6:5000/TVOD/1000000004000002120/ystenlive/index.m3u8$4M1080_易视腾
 http://39.134.66.66/PLTV/88888888/224/3221225644/index.m3u8
 #EXTINF:-1 group-title="NewTV" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/NewTV18.png",NewTV超级体育
-http://107.172.231.80:5010/TVOD/1000000001000009601/ystenlive/index.m3u8$8M1080_易视腾
-http://107.172.231.80:5010/TVOD/2000000003000000030/hnbblive/index.m3u8$4M1080_湖南bblive
-http://107.172.231.80:5010/TVOD/1000000001000009204/ystenlive/index.m3u8$4M1080_易视腾
-http://107.172.231.80:5010/TVOD/1000000004000007755/ystenlive/index.m3u8$4M1080_易视腾
+http://192.168.3.6:5000/TVOD/1000000001000009601/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/2000000003000000030/hnbblive/index.m3u8$4M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/1000000001000009204/ystenlive/index.m3u8$4M1080_易视腾
+http://192.168.3.6:5000/TVOD/1000000004000007755/ystenlive/index.m3u8$4M1080_易视腾
 http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
 #EXTINF:-1 group-title="NewTV" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/NewTV24.png",NewTV超级综艺
-http://107.172.231.80:5010/TVOD/1000000006000268002/ystenlive/index.m3u8$8M1080_易视腾
-http://107.172.231.80:5010/TVOD/2000000003000000029/hnbblive/index.m3u8$4M1080_湖南bblive
-http://107.172.231.80:5010/TVOD/1000000001000025771/ystenlive/index.m3u8$4M1080_易视腾
-http://107.172.231.80:5010/TVOD/1000000004000023658/ystenlive/index.m3u8$4M1080_易视腾
+http://192.168.3.6:5000/TVOD/1000000006000268002/ystenlive/index.m3u8$8M1080_易视腾
+http://192.168.3.6:5000/TVOD/2000000003000000029/hnbblive/index.m3u8$4M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/1000000001000025771/ystenlive/index.m3u8$4M1080_易视腾
+http://192.168.3.6:5000/TVOD/1000000004000023658/ystenlive/index.m3u8$4M1080_易视腾
 http://39.134.66.66/PLTV/88888888/224/3221225642/index.m3u8
 #EXTINF:-1 group-title="NewTV" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/NewTV15.png",NewTV潮妈辣婆
-http://107.172.231.80:5010/TVOD/2000000003000000018/hnbblive/index.m3u8$4M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/2000000003000000018/hnbblive/index.m3u8$4M1080_湖南bblive
 http://39.134.66.66/PLTV/88888888/224/3221225542/index.m3u8
 #EXTINF:-1 group-title="NewTV" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/NewTV25.png",NewTV东北热剧
-http://107.172.231.80:5010/TVOD/1000000005000266013/ystenlive/index.m3u8$4M1080_易视腾
-http://107.172.231.80:5010/TVOD/2000000003000000051/hnbblive/index.m3u8$4M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/1000000005000266013/ystenlive/index.m3u8$4M1080_易视腾
+http://192.168.3.6:5000/TVOD/2000000003000000051/hnbblive/index.m3u8$4M1080_湖南bblive
 http://39.134.66.66/PLTV/88888888/224/3221225679/index.m3u8
 #EXTINF:-1 group-title="NewTV" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/NewTV25.png",NewTV动作电影
-http://107.172.231.80:5010/TVOD/2000000003000000017/hnbblive/index.m3u8$4M1080_湖南bblive
-http://107.172.231.80:5010/TVOD/1000000004000018653/ystenlive/index.m3u8$4M1080_易视腾
+http://192.168.3.6:5000/TVOD/2000000003000000017/hnbblive/index.m3u8$4M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/1000000004000018653/ystenlive/index.m3u8$4M1080_易视腾
 http://39.134.66.66/PLTV/88888888/224/3221225555/index.m3u8
 #EXTINF:-1 group-title="NewTV" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/NewTV25.png",NewTV古装剧场
-http://107.172.231.80:5010/TVOD/2000000003000000024/hnbblive/index.m3u8$4M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/2000000003000000024/hnbblive/index.m3u8$4M1080_湖南bblive
 http://39.134.66.66/PLTV/88888888/224/3221225524/index.m3u8
 #EXTINF:-1 group-title="NewTV" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/NewTV欢乐剧场.png",NewTV欢乐剧场
-http://107.172.231.80:5010/TVOD/2000000003000000050/hnbblive/index.m3u8$4M1080_湖南bblive
-http://107.172.231.80:5010/TVOD/1000000005000266012/ystenlive/index.m3u8$4M1080_易视腾
+http://192.168.3.6:5000/TVOD/2000000003000000050/hnbblive/index.m3u8$4M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/1000000005000266012/ystenlive/index.m3u8$4M1080_易视腾
 #EXTINF:-1 group-title="NewTV" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/NewTV05.png",NewTV家庭剧场
-http://107.172.231.80:5010/TVOD/2000000003000000012/hnbblive/index.m3u8$4M1080_湖南bblive
-http://107.172.231.80:5010/TVOD/1000000004000008284/ystenlive/index.m3u8$4M1080_易视腾
+http://192.168.3.6:5000/TVOD/2000000003000000012/hnbblive/index.m3u8$4M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/1000000004000008284/ystenlive/index.m3u8$4M1080_易视腾
 http://39.134.66.66/PLTV/88888888/224/3221225538/index.m3u8
 http://39.134.66.66/PLTV/88888888/224/3221225682/index.m3u8
 #EXTINF:-1 group-title="NewTV" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/NewTV24.png",NewTV金牌综艺
-http://107.172.231.80:5010/TVOD/2000000003000000005/hnbblive/index.m3u8$4M1080_湖南bblive
-http://107.172.231.80:5010/TVOD/1000000004000026167/ystenlive/index.m3u8$4M1080_易视腾
+http://192.168.3.6:5000/TVOD/2000000003000000005/hnbblive/index.m3u8$4M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/1000000004000026167/ystenlive/index.m3u8$4M1080_易视腾
 http://39.134.66.66/PLTV/88888888/224/3221225525/index.m3u8
 #EXTINF:-1 group-title="NewTV" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/NewTV10.png",NewTV惊悚悬疑
-http://107.172.231.80:5010/TVOD/2000000003000000015/hnbblive/index.m3u8$4M1080_湖南bblive
-http://107.172.231.80:5010/TVOD/1000000004000024282/ystenlive/index.m3u8$4M1080_易视腾
+http://192.168.3.6:5000/TVOD/2000000003000000015/hnbblive/index.m3u8$4M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/1000000004000024282/ystenlive/index.m3u8$4M1080_易视腾
 http://39.134.66.66/PLTV/88888888/224/3221225553/index.m3u8
 #EXTINF:-1 group-title="NewTV" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/NewTV19.png",NewTV精品大剧
-http://107.172.231.80:5010/TVOD/2000000003000000020/hnbblive/index.m3u8$4M1080_湖南bblive
-http://107.172.231.80:5010/TVOD/1000000004000013968/ystenlive/index.m3u8$4M1080_易视腾
+http://192.168.3.6:5000/TVOD/2000000003000000020/hnbblive/index.m3u8$4M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/1000000004000013968/ystenlive/index.m3u8$4M1080_易视腾
 http://39.134.66.66/PLTV/88888888/224/3221225536/index.m3u8
 #EXTINF:-1 group-title="NewTV" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/NewTV25.png",NewTV精品纪录
-http://107.172.231.80:5010/TVOD/1000000004000013730/ystenlive/index.m3u8$4M1080_易视腾
-http://107.172.231.80:5010/TVOD/2000000003000000019/hnbblive/index.m3u8$4M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/1000000004000013730/ystenlive/index.m3u8$4M1080_易视腾
+http://192.168.3.6:5000/TVOD/2000000003000000019/hnbblive/index.m3u8$4M1080_湖南bblive
 http://39.134.66.66/PLTV/88888888/224/3221225545/index.m3u8
 #EXTINF:-1 group-title="NewTV" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/NewTV精品萌宠.png",NewTV精品萌宠
-http://107.172.231.80:5010/TVOD/2000000003000000067/hnbblive/index.m3u8$4M1080_湖南bblive
-http://107.172.231.80:5010/TVOD/1000000006000032328/ystenlive/index.m3u8$4M1080_易视腾
+http://192.168.3.6:5000/TVOD/2000000003000000067/hnbblive/index.m3u8$4M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/1000000006000032328/ystenlive/index.m3u8$4M1080_易视腾
 #EXTINF:-1 group-title="NewTV" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/NewTV18.png",NewTV精品体育
-http://107.172.231.80:5010/TVOD/2000000003000000021/hnbblive/index.m3u8$4M1080_湖南bblive
-http://107.172.231.80:5010/TVOD/1000000004000014634/ystenlive/index.m3u8$4M1080_易视腾
+http://192.168.3.6:5000/TVOD/2000000003000000021/hnbblive/index.m3u8$4M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/1000000004000014634/ystenlive/index.m3u8$4M1080_易视腾
 http://39.134.66.66/PLTV/88888888/224/3221225526/index.m3u8
 #EXTINF:-1 group-title="NewTV" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/NewTV精品综合.png",NewTV精品综合
-http://107.172.231.80:5010/TVOD/2000000003000000008/hnbblive/index.m3u8$4M1080_湖南bblive
-http://107.172.231.80:5010/TVOD/1000000004000019008/ystenlive/index.m3u8$4M1080_易视腾
+http://192.168.3.6:5000/TVOD/2000000003000000008/hnbblive/index.m3u8$4M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/1000000004000019008/ystenlive/index.m3u8$4M1080_易视腾
 #EXTINF:-1 group-title="NewTV" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/NewTV02.png",NewTV军旅剧场
-http://107.172.231.80:5010/TVOD/2000000003000000014/hnbblive/index.m3u8$4M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/2000000003000000014/hnbblive/index.m3u8$4M1080_湖南bblive
 http://39.134.66.66/PLTV/88888888/224/3221225560/index.m3u8
 #EXTINF:-1 group-title="NewTV" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/NewTV01.png",NewTV军事评论
-http://107.172.231.80:5010/TVOD/2000000003000000022/hnbblive/index.m3u8$4M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/2000000003000000022/hnbblive/index.m3u8$4M1080_湖南bblive
 http://39.134.66.66/PLTV/88888888/224/3221225535/index.m3u8
 #EXTINF:-1 group-title="NewTV" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/NewTV魅力潇湘.png",NewTV魅力潇湘
-http://107.172.231.80:5010/TVOD/2000000003000000041/hnbblive/index.m3u8$4M1080_湖南bblive
-http://107.172.231.80:5010/TVOD/1000000001000006197/ystenlive/index.m3u8$4M1080_易视腾
-http://107.172.231.80:5010/TVOD/1000000005000266014/ystenlive/index.m3u8$4M1080_易视腾
+http://192.168.3.6:5000/TVOD/2000000003000000041/hnbblive/index.m3u8$4M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/1000000001000006197/ystenlive/index.m3u8$4M1080_易视腾
+http://192.168.3.6:5000/TVOD/1000000005000266014/ystenlive/index.m3u8$4M1080_易视腾
 #EXTINF:-1 group-title="NewTV" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/NewTV12.png",NewTV明星大片
-http://107.172.231.80:5010/TVOD/2000000003000000016/hnbblive/index.m3u8$4M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/2000000003000000016/hnbblive/index.m3u8$4M1080_湖南bblive
 http://39.134.66.66/PLTV/88888888/224/3221225550/index.m3u8
 #EXTINF:-1 group-title="NewTV" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/NewTV25.png",NewTV农业致富
-http://107.172.231.80:5010/TVOD/2000000003000000003/hnbblive/index.m3u8$4M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/2000000003000000003/hnbblive/index.m3u8$4M1080_湖南bblive
 http://39.134.66.66/PLTV/88888888/224/3221225552/index.m3u8
 #EXTINF:-1 group-title="NewTV" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/NewTV25.png",NewTV武搏世界
-http://107.172.231.80:5010/TVOD/2000000003000000007/hnbblive/index.m3u8$4M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/2000000003000000007/hnbblive/index.m3u8$4M1080_湖南bblive
 http://39.134.66.66/PLTV/88888888/224/3221225547/index.m3u8
 #EXTINF:-1 group-title="NewTV" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/NewTV16.png",NewTV炫舞未来
-http://107.172.231.80:5010/TVOD/2000000003000000044/hnbblive/index.m3u8$4M1080_湖南bblive
-http://107.172.231.80:5010/TVOD/1000000001000000515/ystenlive/index.m3u8$4M1080_易视腾
+http://192.168.3.6:5000/TVOD/2000000003000000044/hnbblive/index.m3u8$4M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/1000000001000000515/ystenlive/index.m3u8$4M1080_易视腾
 http://39.134.66.66/PLTV/88888888/224/3221225646/index.m3u8
 #EXTINF:-1 group-title="NewTV" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/NewTV25.png",NewTV怡伴健康
-http://107.172.231.80:5010/TVOD/2000000003000000023/hnbblive/index.m3u8$4M1080_湖南bblive
-http://107.172.231.80:5010/TVOD/1000000005000266011/ystenlive/index.m3u8$4M1080_易视腾
+http://192.168.3.6:5000/TVOD/2000000003000000023/hnbblive/index.m3u8$4M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/1000000005000266011/ystenlive/index.m3u8$4M1080_易视腾
 http://39.134.66.66/PLTV/88888888/224/3221225571/index.m3u8
 #EXTINF:-1 group-title="NewTV" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/NewTV07.png",NewTV中国功夫
-http://107.172.231.80:5010/TVOD/2000000003000000009/hnbblive/index.m3u8$4M1080_湖南bblive
+http://192.168.3.6:5000/TVOD/2000000003000000009/hnbblive/index.m3u8$4M1080_湖南bblive
 http://39.134.66.66/PLTV/88888888/224/3221225604/index.m3u8
 #EXTINF:-1,group-title="历年春晚" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/春晚.png",春晚1983
 https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
