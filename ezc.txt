@@ -184,6 +184,7 @@ http://111.29.9.33:6610/000000001000/1000000002000008163/index.m3u8?channel-id=b
 http://183.223.157.33:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWyklhmFh7oMx-lG1tNUcSQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV16.png",CCTV-16 奥林匹克
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX9goLRw26BM_r54des2PAw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX9goLRw26BM_r54des2PAw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPt5W7-RovMDpE-7B-0PhHw%2CEND
 http://39.170.52.236:808/hls/16/index.m3u8
 http://192.168.3.3:5000/TVOD/1000000006000233002/ystenlive/index.m3u8$8M1080_易视腾
@@ -192,10 +193,7 @@ http://192.168.3.3:5000/TVOD/5000000008000023253/bestzb/index.m3u8$6.8M1080_百�
 http://192.168.3.3:5000/TVOD/1000000006000233001/ystenlive/index.m3u8$4M1080_易视腾
 http://192.168.3.3:5000/TVOD/5000000008000023254/bestzb/index.m3u8$12M2160HEVC_百视通http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
 https://yunmei.tv/main/cctv-16.m3u8
-http://219.135.180.210:18888/hls/31/index.m3u8
 http://58.17.48.228:808/hls/25/index.m3u8
-http://58.221.214.82:9901/tsfile/live/0002_2.m3u8?key=txiptv&playlive=1&authid=0
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX9goLRw26BM_r54des2PAw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV17.png",CCTV-17 农业农村
 http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226442/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EtihRNVe_x2y1Lgi_XWYeNw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOl8OnsD1vPD0mhNmo98J3J%2CEND
 http://192.168.3.3:5000/TVOD/1000000006000268004/ystenlive/index.m3u8$8M1080_易视腾
