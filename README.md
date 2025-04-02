@@ -7,12 +7,13 @@
 
 #### IPTV搜索引擎
 
-1. http://tonkiang.us
-2. https://iptv-org.github.io
-3. https://www.foodieguide.com/iptvsearch/
-4. https://streamtest.in
-5. https://qutv.tech/
-6. https://meledee.com/2023/12/4380.html
+1. https://iptv.hacks.tools/
+2. http://tonkiang.us
+3. https://iptv-org.github.io
+4. https://www.foodieguide.com/iptvsearch/
+5. https://streamtest.in
+6. https://qutv.tech/
+7. https://meledee.com/2023/12/4380.html
 
 #### 精选项目
 
