@@ -297,15 +297,17 @@ http://192.168.3.6:5000/TVOD/5000000006000040020/bestzb/index.m3u8$4M540_百视�
 https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 
 #EXTINF:-1 group-title="湾区掠影" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/凤凰中文.png",凤凰中文
+http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv
+http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv
 http://183.237.95.108:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=0&authid=0
 http://115.149.139.141:10000/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
-http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv
 http://cdn.163189.xyz/live/fhzw/stream.m3u8
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 #EXTINF:-1 group-title="湾区掠影" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/凤凰资讯.png",凤凰资讯
-http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv
+http://ali.hlspull.yximgs.com/live/qwt_fhzx.flv
+http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv
 http://cdn3.163189.xyz/live/fhzx/stream.m3u8
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
@@ -313,6 +315,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 http://wouu.net:9977/rtp/239.93.0.118:2191?Cf=cfss.cc
 http://cdn3.132.us.kg/live/fhzx/stream.m3u8
 #EXTINF:-1 group-title="湾区掠影" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/凤凰卫视香港台.png",凤凰香港
+http://ali.hlspull.yximgs.com/live/qwt_fhhk.flv
 http://192.168.3.3:8123/phoenix/fhhk.flv?token=ABCD
 http://aktv-stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 https://ali.hlspull.yximgs.com/live/diyp_fh3.flv
