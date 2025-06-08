@@ -328,7 +328,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
 http://php.jdshipin.com:8880/jydx.php?id=38
 http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
 #EXTINF:-1 group-title="湾区掠影" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/中天新闻台.png",中天新闻
-http://ali.hlspull.yximgs.com/live/tboxpropqqtvvqqqyquuqqfvbscvqdqtwqfsqqsqqqcvuyqemqeqtxw.flv
+https://ali.hlspull.yximgs.com/live/ztxw001.flv
 http://222.128.55.152:9080/live/fc.m3u8
 p3p://108.181.32.169:54829/675ec8cf000def51a43a021f0e7931f9
 p3p://108.181.32.169:54829/67792f8c000b05e80b5aafd927433084
