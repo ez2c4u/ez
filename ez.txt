@@ -297,31 +297,33 @@ http://192.168.3.6:5000/TVOD/5000000006000040020/bestzb/index.m3u8$4M540_百视�
 https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 
 #EXTINF:-1 group-title="湾区掠影" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/凤凰中文.png",凤凰中文
-http://ali.hlspull.yximgs.com/live/e14bbe29079fd18a8e8b445ce7fcc3dd.flv
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
+https://s2.m16tv.cfd/aktv/CH-3/AKTV.m3u8
+https://s1.m16tv.cfd/aktv/CH-3/AKTV.m3u8
+http://183.156.71.73:4022/udp/233.50.200.42:5140
 http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
 http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv
 http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv
 http://183.237.95.108:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=0&authid=0
 http://115.149.139.141:10000/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
 http://cdn.163189.xyz/live/fhzw/stream.m3u8
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 #EXTINF:-1 group-title="湾区掠影" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/凤凰资讯.png",凤凰资讯
-http://ali.hlspull.yximgs.com/live/8803fa3dbc8b9adb24010f8fb5c44e02.flv
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
+https://s2.m16tv.cfd/aktv/CH-4/AKTV.m3u8
+https://s1.m16tv.cfd/aktv/CH-4/AKTV.m3u8
 http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
 http://ali.hlspull.yximgs.com/live/qwt_fhzx.flv
 http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv
 http://cdn3.163189.xyz/live/fhzx/stream.m3u8
-http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 #EXTINF:-1 group-title="湾区掠影" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/凤凰卫视香港台.png",凤凰香港
-http://ali.hlspull.yximgs.com/live/7532e23fe1350d23bf72e13b95954253.flv
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
+http://php.jdshipin.com:8880/jydx.php?id=38
 http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
 http://ali.hlspull.yximgs.com/live/qwt_fhhk.flv
 http://192.168.3.3:8123/phoenix/fhhk.flv?token=ABCD
 http://aktv-stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 https://ali.hlspull.yximgs.com/live/diyp_fh3.flv
-http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
-http://php.jdshipin.com:8880/jydx.php?id=38
 http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MD0D2495250724952507&ct=19249&tsum=b1c0a577a7f4aaa9af143d124ba24a40
 #EXTINF:-1 group-title="湾区掠影" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/中天新闻台.png",中天新闻
 http://ali.hlspull.yximgs.com/live/f46af3e15ee89e76d4d846ba04258ece.flv
