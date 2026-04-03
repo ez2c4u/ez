@@ -387,7 +387,6 @@ http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/322122
 https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 
 #EXTINF:-1 group-title="湾区掠影" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/凤凰中文.png",凤凰中文
-http://rihou.cc:555/tv/[Pd]凤凰中文
 http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20060
 http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20063
 http://iptv.4666888.xyz/iptv2A.php?id=27
@@ -396,8 +395,8 @@ http://cdn6.163189.xyz/163189/fhzw
 http://r.jdshipin.com/cCCzW
 https://cdn6.163189.xyz/163189/fhzw
 https://cdn6.101.qzz.io/163189/fhzw
+http://rihou.cc:555/tv/[Pd]凤凰中文
 #EXTINF:-1 group-title="湾区掠影" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/凤凰资讯.png",凤凰资讯
-http://rihou.cc:555/tv/[Pd]凤凰资讯
 http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20061
 http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20064
 https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
@@ -406,8 +405,8 @@ http://cdn6.163189.xyz/163189/fhzx
 http://r.jdshipin.com/0Rp07
 https://cdn6.101.qzz.io/163189/fhzx
 https://cdn6.163189.xyz/163189/fhzx
+http://rihou.cc:555/tv/[Pd]凤凰资讯
 #EXTINF:-1 group-title="湾区掠影" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/凤凰卫视香港台.png",凤凰香港
-http://rihou.cc:555/tv/[Pd]凤凰香港
 http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20062
 http://huhu11.a1.luyouxia.net:26894/play/电视家/电视家.php?id=20065
 http://cdn6.163189.xyz/163189/fhhk
@@ -416,6 +415,7 @@ http://r.jdshipin.com/NfC0f
 https://cdn6.101.qzz.io/163189/fhhk
 https://cdn6.163189.xyz/163189/fhhk
 http://bxtv.3a.ink/api.php?id=fhhk
+http://rihou.cc:555/tv/[Pd]凤凰香港
 #EXTINF:-1 group-title="湾区掠影" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/中天新闻台.png",中天新闻
 rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
 http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
