@@ -3,13 +3,9 @@
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV1.png",CCTV-1 综合
 http://61.178.227.57:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 http://198.204.228.26/live/cctv1hd.m3u8
-http://221.13.235.120:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 http://183.129.255.66:8480/hls/1/index.m3u8
 http://192.151.150.154/live/cctv1hd.m3u8
-http://110.40.170.5:8889/fu4/live_ywdl.php?id=1
-http://221.13.235.203:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 http://124.228.160.176:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
-http://101.66.198.11:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 http://113.141.220.55:9901/tsfile/live/0001_1.m3u8
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?
@@ -20,11 +16,7 @@ http://ygbh.site/php/bfgd.php?id=488
 https://cc06.tv12.xyz/1.m3u8
 http://60.10.139.113:8801/hls/1/index.m3u8
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV2.png",CCTV-2 财经
-http://218.29.147.237:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 http://183.129.255.66:8480/hls/2/index.m3u8
-http://221.13.235.120:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-http://221.13.235.203:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
-http://110.40.170.5:8889/fu4/live_ywdl.php?id=2
 http://113.141.220.55:9901/tsfile/live/0002_1.m3u8
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcnoJZd_sZxCC6bZYZh4R6g%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226893/1.m3u8?
@@ -38,10 +30,6 @@ http://60.10.139.113:8801/hls/2/index.m3u8
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV3.png",CCTV-3 综艺
 http://198.204.228.26/live/cctv3hd.m3u8
 http://192.151.150.154/live/cctv3hd.m3u8
-http://221.13.235.120:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-http://110.40.170.5:8889/fu4/live_ywdl.php?id=3
-http://182.114.50.12:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
-http://101.66.195.162:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=0&authid=0
 http://113.141.220.55:9901/tsfile/live/0003_1.m3u8
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226456/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_6GNVcVOz9Xub8CclyMRUg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOIR_8g_qYRqpV5wTQqRILi%2CEND
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226471/1.m3u8?
@@ -53,9 +41,6 @@ https://cc06.tv12.xyz/3.m3u8
 http://60.10.139.113:8801/hls/3/index.m3u8
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV4.png",CCTV-4 中文国际
 http://183.129.255.66:8480/hls/4/index.m3u8
-http://221.13.235.203:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-http://221.13.235.120:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
-http://110.40.170.5:8889/fu4/live_ywdl.php?id=4
 http://192.151.150.154/live/cctv4hd.m3u8
 http://113.141.220.55:9901/tsfile/live/0004_1.m3u8
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -69,10 +54,7 @@ http://198.204.228.26/live/cctv5hd.m3u8
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
 http://192.151.150.154/live/cctv5p.m3u8
 http://183.129.255.66:8480/hls/5/index.m3u8
-http://110.40.170.5:8889/fu4/live_ywdl.php?id=5
 http://113.141.220.55:9901/tsfile/live/0005_1.m3u8
-http://101.66.198.87:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
-http://101.66.198.136:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=0&authid=0
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
 http://74.91.26.218:82/live/cctv5hd.m3u8
 http://223.75.149.129:9906/tsfile/live/0005_1.m3u8
@@ -80,7 +62,6 @@ http://genglei.8866.org:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authi
 http://60.10.139.113:8801/hls/5/index.m3u8
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV5+.png",CCTV-5+ 体育赛事
 http://183.129.255.66:8480/hls/6/index.m3u8
-http://110.40.170.5:8889/fu4/live_ywds.php?id=6
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p
 http://74.91.26.218:82/live/cctv5p.m3u8
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EevWZ0zmguDsOY_Mf3SM5TA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
@@ -88,8 +69,6 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://111.43.126.240:9003/hls/81/index.m3u8
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV6.png",CCTV-6 电影
 http://183.129.255.66:8480/hls/7/index.m3u8
-http://221.13.235.120:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
-http://110.40.170.5:8889/fu4/live_ywdl.php?id=6
 http://124.228.160.176:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
 http://113.141.220.55:9901/tsfile/live/0006_1.m3u8
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226453/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ex56LEwu%E8%B4%AD%E7%89%A9PdJkUNYhbNCw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOH2PzEhAK60LI_FWtVxfVS%2CEND
@@ -103,12 +82,7 @@ http://60.10.139.113:8801/hls/6/index.m3u8
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV7.png",CCTV-7 国防军事
 http://198.204.228.26/live/cctv7hd.m3u8
 http://183.129.255.66:8480/hls/8/index.m3u8
-http://221.13.235.203:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
-http://218.29.147.237:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
 http://192.151.150.154/live/cctv7hd.m3u8
-http://101.66.198.87:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
-http://110.40.170.5:8889/fu4/live_ywdl.php?id=7
-http://101.66.198.136:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=0&authid=0
 http://113.141.220.55:9901/tsfile/live/0007_1.m3u8
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2bEV_zkW1hRnWmsZq6rlbw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226946/1.m3u8?
@@ -123,11 +97,8 @@ http://60.10.139.113:8801/hls/7/index.m3u8
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV8.png",CCTV-8 电视剧
 http://198.204.240.250:82/live/cctv8k.m3u8
 http://198.204.228.26/live/cctv8hd.m3u8
-http://221.13.235.120:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 http://192.151.150.154/live/cctv8hd.m3u8
-http://221.13.235.203:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
 http://183.129.255.66:8480/hls/9/index.m3u8
-http://110.40.170.5:8889/fu4/live_ywdl.php?id=8
 http://113.141.220.55:9901/tsfile/live/0008_1.m3u8
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226451/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EO_1NY-UghfdG_S28Bf_FPw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO1anuaDcpMt0_BMig72trX%2CEND
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226485/1.m3u8?
@@ -140,14 +111,9 @@ http://60.10.139.113:8801/hls/8/index.m3u8
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV9.png",CCTV-9 纪录
 https://v4-702cae17a28d6e4f0c0002bba021d934.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=a0a64f9506443d9b4f88e8f2ceea82cf
 http://192.151.150.154/live/cctv9hd.m3u8
-http://110.40.170.5:8889/fu4/live_ywds.php?id=10
 https://v4-e6b1c5baf4e240fe63adbf68dda23435.livehwc4.com/play.kankanlive.com/live/1698423397390920.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=d872f00c516e7fa60ee46c69920afb7c
 http://183.129.255.66:8480/hls/10/index.m3u8
-http://221.13.235.120:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
 http://113.141.220.55:9901/tsfile/live/0009_1.m3u8
-http://101.66.198.11:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
-http://101.66.195.162:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
-http://101.66.198.87:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=0&authid=0
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EgdZMBjOTdDWVEgovFkZoew%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226944/1.m3u8?
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225734
@@ -158,15 +124,11 @@ http://ygbh.site/php/bfgd.php?id=128
 https://cc06.tv12.xyz/10.m3u8
 http://60.10.139.113:8801/hls/9/index.m3u8
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV10.png",CCTV-10 科教
-http://221.13.235.120:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
 http://192.151.150.154/live/cctv10hd.m3u8
 http://hao6688.3322.org:30066/stream/channelid/436563839?ticket=da46b80b76785d5a8675a1e693c3722c3cd3f28d&profile=pass
 http://183.129.255.66:8480/hls/11/index.m3u8
-http://110.40.170.5:8889/fu4/live_ywdl.php?id=10
 http://125.42.150.192:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
 http://113.141.220.55:9901/tsfile/live/0010_1.m3u8
-http://101.66.198.87:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
-http://101.66.195.162:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=0&authid=0
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Egbbk6OxyTS2utbJWm7Qw1w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226937/1.m3u8?
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225730
@@ -177,13 +139,9 @@ http://ygbh.site/php/bfgd.php?id=129
 https://cc06.tv12.xyz/11.m3u8
 http://60.10.139.113:8801/hls/10/index.m3u8
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV11.png",CCTV-11 戏曲
-http://221.13.235.203:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
 http://183.129.255.66:8480/hls/12/index.m3u8
-http://110.40.170.5:8889/fu4/live_ywdl.php?id=11
 http://113.141.220.55:9901/tsfile/live/0011_1.m3u8
 http://124.228.160.176:9901/tsfile/live/0011_2.m3u8?key=txiptv&playlive=1&authid=0
-http://101.66.198.11:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
-http://101.66.195.162:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=0&authid=0
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0RcQQbNseiHvFO8XWf466A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226565
@@ -197,8 +155,6 @@ http://60.10.139.113:8801/hls/96/index.m3u8
 http://183.129.255.66:8480/hls/13/index.m3u8
 http://hao6688.3322.org:30066/stream/channelid/1186766229?ticket=bc6e76f1a2882842c64d6d563cb6b732df4a483a&profile=pass
 http://192.151.150.154/live/cctv12hd.m3u8
-http://110.40.170.5:8889/fu4/live_ywdl.php?id=12
-http://221.13.235.203:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
 http://113.141.220.55:9901/tsfile/live/0012_1.m3u8
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E9nVa4WyKpuJgFy6Zh4TplQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226942/1.m3u8?
@@ -212,10 +168,7 @@ http://60.10.139.113:8801/hls/11/index.m3u8
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV13.png",CCTV-13 新闻
 http://198.204.228.26/live/cctv13hd.m3u8
 http://183.129.255.66:8480/hls/14/index.m3u8
-http://110.40.170.5:8889/fu4/live_ywdl.php?id=13
 http://113.141.220.55:9901/tsfile/live/0013_1.m3u8
-http://101.66.195.162:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
-http://101.66.198.11:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EqHPe9pEEWJ00hz1ArnRZVA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226011
@@ -226,14 +179,10 @@ http://ygbh.site/php/bfgd.php?id=067
 https://cc06.tv12.xyz/14.m3u8
 http://60.10.139.113:8801/hls/12/index.m3u8
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV14.png",CCTV-14 少儿
-http://110.40.170.5:8889/fu4/live_ywdl.php?id=14
 http://192.151.150.154/live/cctv14hd.m3u8
 http://183.129.255.66:8480/hls/15/index.m3u8
 http://hao6688.3322.org:30066/stream/channelid/1608371197?ticket=9bc0812da9f7687a1f233bcc8358c2df22002353&profile=pass
 http://113.141.220.55:9901/tsfile/live/0014_1.m3u8
-http://101.66.198.11:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
-http://101.66.198.87:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
-http://101.66.195.162:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EgtTqPYLE5COifF-qvYi2Ig%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8?
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221225732
@@ -245,13 +194,7 @@ http://ygbh.site/php/bfgd.php?id=132
 https://cc06.tv12.xyz/15.m3u8
 http://60.10.139.113:8801/hls/13/index.m3u8
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV15.png",CCTV-15 音乐
-http://218.29.147.237:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
-http://110.40.170.5:8889/fu4/live_ywdl.php?id=15
-http://221.13.235.120:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
 http://113.141.220.55:9901/tsfile/live/0015_1.m3u8
-http://101.66.198.136:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
-http://101.66.198.87:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
-http://101.66.195.162:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EWyklhmFh7oMx-lG1tNUcSQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226333/1.m3u8?
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226476
@@ -261,11 +204,9 @@ http://ygbh.site/php/bfgd.php?id=133
 https://cc06.tv12.xyz/16.m3u8
 http://60.10.139.113:8801/hls/97/index.m3u8
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV16.png",CCTV-16 奥林匹克
-http://59.62.1.50:8888/rtsp/115.153.254.117/PLTV/88888888/224/3221227051/92603106.smil
 http://192.151.150.154/live/cctv16hd.m3u8
 http://207.56.13.146:81/cdnlive/cctv16.m3u8
 http://183.129.255.66:8480/hls/17/index.m3u8
-http://110.40.170.5:8889/fu4/live_ywds.php?id=17
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX9goLRw26BM_r54des2PAw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
@@ -278,7 +219,6 @@ http://111.26.109.81:9003/hls/16/index.m3u8
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV17.png",CCTV-17 农业农村
 http://183.129.255.66:8480/hls/18/index.m3u8
 http://192.151.150.154/live/cctv17hd.m3u8
-http://110.40.170.5:8889/fu4/live_ywds.php?id=18
 http://hao6688.3322.org:30066/stream/channelid/1311739751?ticket=4dbdea18712ab93721ac480be6aa1448dcb5dbcc&profile=pass
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEkwQnoHNXRDb-IayWakK1A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226318/1.m3u8?
@@ -307,7 +247,7 @@ https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTVplus.png",CCTV+2
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/北京卫视.png",北京卫视
+#EXTINF:-1 group-title="省市卫视" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/北京卫视.png",北京卫视
 http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8
 http://110.40.170.5:8889/fu4/live_ywdl.php?id=16
 http://153.0.171.163:85/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -320,7 +260,7 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://101.74.29.127:9901/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
 http://220.164.192.48:50085/tsfile/live/0135_1.m3u8
 https://zby.130519.xyz/PLTV/11/224/3221225724/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/湖南卫视.png",湖南卫视
+#EXTINF:-1 group-title="省市卫视" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/湖南卫视.png",湖南卫视
 https://live.264788.xyz/channel/hunanweishi?streamid=37cb5c9acb9e3f8181024abb01b76800&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 http://dodge.lwfz.fun:8800/rtp/239.16.20.72:10720
@@ -335,7 +275,7 @@ http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226509/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EIGb_ib7rnBX9_sANRKq9sg%7EpK8OKM5JoJWWbLRyLfPcUMkwWZ90MzSI9S9PDltJsYzd0ZGcS3Tkh7syciNKJa-w60mDOdwtDyoNwCx9aRgzHNH9AUREV_qvNJtXHRPzYw0%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3D%3D%3A20221022013542%2C915973%2C119.123.71.209%2C20221022013542%2C10000100000000050000000003873458%2C915973%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007253514_0%2CEND&GuardEncType=2
 http://101.74.29.127:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
 https://zby.130519.xyz/PLTV/11/224/3221225726/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/江苏卫视.png",江苏卫视
+#EXTINF:-1 group-title="省市卫视" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/江苏卫视.png",江苏卫视
 http://110.40.170.5:8889/fu4/live_ywdl.php?id=32
 http://101.66.198.136:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
 http://113.141.220.55:9901/tsfile/live/0127_1.m3u8
@@ -347,7 +287,7 @@ http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226897/1.m3u8?GuardEncType
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226897/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0BmO6uHF7WFoTed__Xr3NQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://101.74.29.127:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
 https://zby.130519.xyz/PLTV/11/224/3221225720/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/浙江卫视.png",浙江卫视
+#EXTINF:-1 group-title="省市卫视" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/浙江卫视.png",浙江卫视
 http://110.40.170.5:8889/fu4/live_ywdl.php?id=17
 http://hao6688.3322.org:30066/stream/channelid/1991276227?ticket=b24331935685500048e648b58e3e4db952ac510d&profile=pass
 https://live.264788.xyz/channel/zhejiangweishi?streamid=71f2f18b70580fb254c80c2189bf274d&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
@@ -361,7 +301,7 @@ http://101.74.29.127:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
 https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 http://ali-m-l.cztv.com/channels/lantian/channel001/720p.m3u8
 https://zby.130519.xyz/PLTV/11/224/3221225727/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/东方卫视.png",东方卫视
+#EXTINF:-1 group-title="省市卫视" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/东方卫视.png",东方卫视
 http://110.40.170.5:8889/fu4/live_ywdl.php?id=26
 http://mypanel-4k.com:80/me52pjdqa6/dt2t9r16ja/283871
 http://101.66.198.136:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -372,7 +312,7 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://101.74.29.127:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=1&authid=0
 https://zby.130519.xyz/PLTV/11/224/3221225725/index.m3u8
 https://zby.130519.xyz/PLTV/11/224/3221226106/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/天津卫视.png",天津卫视
+#EXTINF:-1 group-title="省市卫视" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/天津卫视.png",天津卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eaf3wyULP1h575eM_4ByMDg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eaf3wyULP1h575eM_4ByMDg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://220.164.192.48:50085/tsfile/live/0130_1.m3u8
@@ -380,7 +320,7 @@ http://111.14.181.15:9901/tsfile/live/0135_1.m3u8
 http://39.134.65.166/PLTV/88888888/224/3221225665/1.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221225972/1.m3u8
 https://zby.130519.xyz/PLTV/11/224/3221225742/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/重庆卫视.png",重庆卫视
+#EXTINF:-1 group-title="省市卫视" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/重庆卫视.png",重庆卫视
 https://live.264788.xyz/channel/chongqingweishi?streamid=67cc81d963a7523e0fd449d3844b30bc&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 http://110.40.170.5:8889/fu4/live_ywdl.php?id=30
 http://113.141.220.55:9901/tsfile/live/0142_1.m3u8
@@ -392,7 +332,7 @@ http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221
 http://111.14.181.15:9901/tsfile/live/0142_1.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221225963/1.m3u8
 https://zby.130519.xyz/PLTV/11/224/3221226171/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/四川卫视.png",四川卫视
+#EXTINF:-1 group-title="省市卫视" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/四川卫视.png",四川卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226995/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBQiz3wrGrpG0CUSRIJ-7Jg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226995/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBQiz3wrGrpG0CUSRIJ-7Jg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel31/1300.m3u8
@@ -401,12 +341,12 @@ http://ynxsj.7766.org:9901/tsfile/live/0123_1.m3u8?key=txiptv
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000330/index.m3u8?IAS
 http://39.134.67.108/PLTV/88888888/224/3221225970/1.m3u8
 https://zby.130519.xyz/PLTV/11/224/3221226152/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/云南卫视.png",云南卫视
+#EXTINF:-1 group-title="省市卫视" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/云南卫视.png",云南卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227028/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGfQPqRNVeBjTMsZ48qu0SA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227028/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGfQPqRNVeBjTMsZ48qu0SA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 https://zby.130519.xyz/PLTV/11/224/3221226109/index.m3u8
 https://zby.130519.xyz/PLTV/11/224/3221226151/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/贵州卫视.png",贵州卫视
+#EXTINF:-1 group-title="省市卫视" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/贵州卫视.png",贵州卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227012/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EnqBF03rFwPucF8ODtWxLQQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227012/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EnqBF03rFwPucF8ODtWxLQQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://39.164.160.249:9901/tsfile/live/0120_1.m3u8
@@ -414,33 +354,33 @@ http://111.14.181.15:9901/tsfile/live/0120_1.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221225974/1.m3u8
 http://39.134.65.149/PLTV/88888888/224/3221225974/1.m3u8
 https://zby.130519.xyz/PLTV/11/224/3221226173/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/广东卫视.png",广东卫视
+#EXTINF:-1 group-title="省市卫视" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/广东卫视.png",广东卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2MGyx659D_aaDPP0qt3NgA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2MGyx659D_aaDPP0qt3NgA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://39.164.160.249:9901/tsfile/live/0125_1.m3u8
 http://111.14.181.15:9901/tsfile/live/0125_1.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221225966/1.m3u8
 https://zby.130519.xyz/PLTV/11/224/3221225731/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/深圳卫视.png",深圳卫视
+#EXTINF:-1 group-title="省市卫视" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/深圳卫视.png",深圳卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGrVNEZREjuNVKiTJo2mtwg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGrVNEZREjuNVKiTJo2mtwg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://58.57.40.22:9901/tsfile/live/1036_1.m3u8
 http://111.14.181.15:9901/tsfile/live/0126_1.m3u8
 https://zby.130519.xyz/PLTV/11/224/3221225728/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/东南卫视.png",东南卫视
+#EXTINF:-1 group-title="省市卫视" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/东南卫视.png",东南卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226991/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQ6F5Mjgs0tJyEArWFL3vQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226991/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQ6F5Mjgs0tJyEArWFL3vQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://220.164.192.48:50085/tsfile/live/0120_1.m3u8
 http://111.14.181.15:9901/tsfile/live/0137_1.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221225950/1.m3u8
 https://zby.130519.xyz/PLTV/11/224/3221225745/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/海南卫视.png",海南卫视
+#EXTINF:-1 group-title="省市卫视" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/海南卫视.png",海南卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227029/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEuBMjt2kLMD8fAO7QYER7Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227029/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEuBMjt2kLMD8fAO7QYER7Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://220.164.192.48:50085/tsfile/live/1003_1.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221226026/1.m3u8
 https://zby.130519.xyz/PLTV/11/224/3221226154/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/广西卫视.png",广西卫视
+#EXTINF:-1 group-title="省市卫视" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/广西卫视.png",广西卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227010/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkAhb-89sxdm9fz6-heXCuw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227010/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkAhb-89sxdm9fz6-heXCuw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://220.164.192.48:50085/tsfile/live/0112_1.m3u8
@@ -448,91 +388,91 @@ http://111.14.181.15:9901/tsfile/live/0113_1.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221226024/1.m3u8
 https://zby.130519.xyz/PLTV/11/224/3221226084/index.m3u8
 https://zby.130519.xyz/PLTV/11/224/3221226130/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/湖北卫视.png",湖北卫视
+#EXTINF:-1 group-title="省市卫视" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/湖北卫视.png",湖北卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226952/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EREB40lnZnCEwjRy7LZuhIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226952/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EREB40lnZnCEwjRy7LZuhIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 https://zby.130519.xyz/PLTV/11/224/3221225729/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/安徽卫视.png",安徽卫视
+#EXTINF:-1 group-title="省市卫视" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/安徽卫视.png",安徽卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226943/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0QmKQ_slRCwvVVUUfxPVbw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226943/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0QmKQ_slRCwvVVUUfxPVbw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://39.164.160.249:9901/tsfile/live/0130_1.m3u8
 http://111.14.181.15:9901/tsfile/live/0130_1.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221225925/1.m3u8
 https://zby.130519.xyz/PLTV/11/224/3221225739/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/江西卫视.png",江西卫视
+#EXTINF:-1 group-title="省市卫视" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/江西卫视.png",江西卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ei6ZIpVizXlewg-YfGvH8dA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ei6ZIpVizXlewg-YfGvH8dA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://39.164.160.249:9901/tsfile/live/0138_1.m3u8
 http://111.14.181.15:9901/tsfile/live/0138_1.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221225935/1.m3u8
 https://zby.130519.xyz/PLTV/11/224/3221225740/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/山东卫视.png",山东卫视
+#EXTINF:-1 group-title="省市卫视" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/山东卫视.png",山东卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226957/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjW26v5VaHGy1jQuIA-4EbA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226957/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjW26v5VaHGy1jQuIA-4EbA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://39.164.160.249:9901/tsfile/live/0131_1.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221225952/1.m3u8
 http://39.134.65.141/PLTV/88888888/224/3221225952/1.m3u8
 https://zby.130519.xyz/PLTV/11/224/3221225733/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/山西卫视.png",山西卫视
+#EXTINF:-1 group-title="省市卫视" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/山西卫视.png",山西卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227016/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESb5Qr3NTpE2ZugIroKoyTw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227016/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESb5Qr3NTpE2ZugIroKoyTw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://220.164.192.48:50085/tsfile/live/0117_1.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221226009/1.m3u8
 https://zby.130519.xyz/PLTV/11/224/3221226113/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/河北卫视.png",河北卫视
+#EXTINF:-1 group-title="省市卫视" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/河北卫视.png",河北卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227014/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErSGjhI3DMaaAASPrbQJYTg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227014/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErSGjhI3DMaaAASPrbQJYTg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://39.164.160.249:9901/tsfile/live/0117_1.m3u8
 http://111.14.181.15:9901/tsfile/live/0117_1.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221225961/1.m3u8
 https://zby.130519.xyz/PLTV/11/224/3221226107/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/河南卫视.png",河南卫视
+#EXTINF:-1 group-title="省市卫视" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/河南卫视.png",河南卫视
 https://zby.130519.xyz/PLTV/11/224/3221226132/index.m3u8
 http://lxajh.top/tv/hn.php?id=hnws
 http://39.164.160.249:9901/tsfile/live/0139_1.m3u8
 http://111.14.181.15:9901/tsfile/live/0139_1.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/陕西卫视.png",陕西卫视
+#EXTINF:-1 group-title="省市卫视" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/陕西卫视.png",陕西卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226999/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsGLKaSqf0wDZMbAjeQtfyw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226999/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EsGLKaSqf0wDZMbAjeQtfyw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://39.164.160.249:9901/tsfile/live/0136_1.m3u8
 http://111.14.181.15:9901/tsfile/live/0136_1.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/甘肃卫视.png",甘肃卫视
+#EXTINF:-1 group-title="省市卫视" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/甘肃卫视.png",甘肃卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227020/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Err-CLugPnTcUinEM8JeySg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227020/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Err-CLugPnTcUinEM8JeySg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://58.57.40.22:9901/tsfile/live/1056_1.m3u8
 https://zby.130519.xyz/PLTV/11/224/3221226090/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/宁夏卫视.png",宁夏卫视
+#EXTINF:-1 group-title="省市卫视" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/宁夏卫视.png",宁夏卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227003/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESco1zinvdUYzleEkXYhIvA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227003/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESco1zinvdUYzleEkXYhIvA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://58.57.40.22:9901/tsfile/live/1054_1.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221226028/1.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/青海卫视.png",青海卫视
+#EXTINF:-1 group-title="省市卫视" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/青海卫视.png",青海卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227017/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EacviHy_ucMT27Ymf2iLtZA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227017/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EacviHy_ucMT27Ymf2iLtZA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://58.57.40.22:9901/tsfile/live/1057_1.m3u8
 http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=040419e21714225490
 http://stream.qhbtv.com/qhws/sd/live.m3u8?_upt=397a2b0a1717226499
 https://zby.130519.xyz/PLTV/11/224/3221226105/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/新疆卫视.png",新疆卫视
+#EXTINF:-1 group-title="省市卫视" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/新疆卫视.png",新疆卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227011/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ExAUu61iVvo_xYbANWJhgXw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227011/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ExAUu61iVvo_xYbANWJhgXw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://39.134.67.108/PLTV/88888888/224/3221225999/1.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/西藏卫视.png",西藏卫视
+#EXTINF:-1 group-title="省市卫视" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/西藏卫视.png",西藏卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227033/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EdeTB7OZ9G_VNJk5C3t96fQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227033/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EdeTB7OZ9G_VNJk5C3t96fQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://36.32.174.67:60080/newlive/live/hls/48/live.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221225951/1.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/内蒙古卫视.png",内蒙古卫视
+#EXTINF:-1 group-title="省市卫视" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/内蒙古卫视.png",内蒙古卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227018/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErN_hoRDwApMKnJqiNHvn9w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227018/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErN_hoRDwApMKnJqiNHvn9w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://111.61.236.247:9081/hls/48/index.m3u8
 http://39.134.67.108/PLTV/88888888/224/3221226017/1.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/黑龙江卫视.png",黑龙江卫视
+#EXTINF:-1 group-title="省市卫视" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/黑龙江卫视.png",黑龙江卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226965/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7UiKL56-L86ihmTWaZ6csw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226965/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7UiKL56-L86ihmTWaZ6csw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://39.164.160.249:9901/tsfile/live/0143_1.m3u8
 https://zby.130519.xyz/PLTV/11/224/3221225722/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/吉林卫视.png",吉林卫视
+#EXTINF:-1 group-title="省市卫视" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/吉林卫视.png",吉林卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227015/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EW5-3AVdwD5KlUpuA4mz7Cg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227015/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EW5-3AVdwD5KlUpuA4mz7Cg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://111.14.181.15:9901/tsfile/live/0116_1.m3u8
@@ -540,60 +480,59 @@ http://39.134.67.108/PLTV/88888888/224/3221226013/1.m3u8
 http://39.134.65.149/PLTV/88888888/224/3221225981/1.m3u8
 https://zby.130519.xyz/PLTV/11/224/3221226149/index.m3u8
 https://zby.130519.xyz/PLTV/11/224/3221226082/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/辽宁卫视.png",辽宁卫视
+#EXTINF:-1 group-title="省市卫视" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/辽宁卫视.png",辽宁卫视
 http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226966/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E6qJH8Fd-zgCGx3P-Ce86cA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226966/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E6qJH8Fd-zgCGx3P-Ce86cA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://39.164.160.249:9901/tsfile/live/0121_1.m3u8
 http://111.14.181.15:9901/tsfile/live/0121_1.m3u8
 https://zby.130519.xyz/PLTV/11/224/3221225747/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/厦门卫视.png",厦门卫视
+#EXTINF:-1 group-title="省市卫视" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/厦门卫视.png",厦门卫视
 http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226542/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0HuqirkTe1cAUljwazjNGw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMvSOYesmmWPPy5i3xS4Rsb%2CEND
 http://220.164.192.48:50085/tsfile/live/1004_1.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/大湾区卫视.png",大湾区卫视
+#EXTINF:-1 group-title="省市卫视" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/大湾区卫视.png",大湾区卫视
 http://mzitv.cn:32/tsfile/live/1012_1.m3u8
 http://gmxw.7766.org:808/hls/132/index.m3u8
 http://183.11.239.36:808/hls/132/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/三沙卫视.png",三沙卫视
+#EXTINF:-1 group-title="省市卫视" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/三沙卫视.png",三沙卫视
 http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226544/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eb2dn60YQRxhB5rAyOnrv0g%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO_hnHaWpTsMQwR98VJGduo%2CEND
 https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/兵团卫视.png",兵团卫视
+#EXTINF:-1 group-title="省市卫视" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/兵团卫视.png",兵团卫视
 http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226541/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESv-rH0nF41q6pxKZKeRnNA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNN-56c_rnHTXQA4R-D0Dlau%2CEND
 https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 
 #EXTINF:-1 group-title="湾区掠影" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/凤凰中文.png",凤凰中文
+http://cdn6.163189.xyz/163189/fhzw
+https://cdn6.163189.xyz/163189/fhzw
+https://cdn6.101.qzz.io/163189/fhzw
 http://rihou.cc:555/tv/[Pd]凤凰中文
 http://iptv.4666888.xyz/iptv2A.php?id=27
 http://223.95.198.3:8000/hls/20/index.m3u8
-http://cdn6.163189.xyz/163189/fhzw
 http://r.jdshipin.com/cCCzW
-https://cdn6.163189.xyz/163189/fhzw
-https://cdn6.101.qzz.io/163189/fhzw
+http://61.184.46.85:85/tsfile/live/1029_1.m3u8?key=txiptv&playlive=1&authid=0
 #EXTINF:-1 group-title="湾区掠影" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/凤凰资讯.png",凤凰资讯
+http://cdn6.163189.xyz/163189/fhzx
+https://cdn6.101.qzz.io/163189/fhzx
+https://cdn6.163189.xyz/163189/fhzx
 http://rihou.cc:555/tv/[Pd]凤凰资讯
 https://cdn9.163189.xyz/smt3.1.1.php?id=phoenixinfo_hd
 http://feilong123.vip/409990236/hktv.php?id=1
-http://cdn6.163189.xyz/163189/fhzx
 http://r.jdshipin.com/0Rp07
-https://cdn6.101.qzz.io/163189/fhzx
-https://cdn6.163189.xyz/163189/fhzx
 #EXTINF:-1 group-title="湾区掠影" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/凤凰卫视香港台.png",凤凰香港
-http://rihou.cc:555/tv/[Pd]凤凰香港
 http://cdn6.163189.xyz/163189/fhhk
-http://r.jdshipin.com/yDoTN
-http://r.jdshipin.com/NfC0f
 https://cdn6.101.qzz.io/163189/fhhk
 https://cdn6.163189.xyz/163189/fhhk
+http://rihou.cc:555/tv/[Pd]凤凰香港
+http://r.jdshipin.com/yDoTN
+http://r.jdshipin.com/NfC0f
 http://bxtv.3a.ink/api.php?id=fhhk
 #EXTINF:-1 group-title="湾区掠影" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/中天新闻台.png",中天新闻
-rtmp://demo2.anj365.com/live/xiangjiaoge-ztxw
+http://rihou.cc:555/tv/[Hv]中天新聞
+http://rihou.cc:555/tv/[SZ]中天新闻
+http://rihou.cc:555/tv/[Us]中天新闻
 http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 http://220.135.64.124:5050/li-4gtv-4gtv009/index.m3u8?proxy=true
 http://220.135.64.124:5050/4gtv-4gtv009/index.m3u8?proxy=true
-https://t.freetv.fun/live/zhong-tian-xin-wen-22.m3u8
 http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
-https://t.freetv.fun/live/zhong-tian-xin-wen-2.m3u8
-https://t.freetv.fun/live/zhong-tian-xin-wen-22.m3u8
-http://rihou.cc:555/tv/[Bx]中天新闻
 http://bxtv.3a.ink/api.php?id=ztxw
 
 #EXTINF:-1 group-title="湾区掠影" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/中天亚洲台.png",中天亚洲台
