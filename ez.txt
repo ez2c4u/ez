@@ -37,38 +37,32 @@ http://ygbh.site/php/bfgd.php?id=062
 https://cc06.tv12.xyz/3.m3u8
 http://60.10.139.113:8801/hls/3/index.m3u8
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV4.png",CCTV-4 中文国际
+http://183.129.255.66:8480/hls/4/index.m3u8
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
 http://112.30.73.119:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=0&authid=0
-http://183.129.255.66:8480/hls/4/index.m3u8
 http://192.151.150.154/live/cctv4hd.m3u8
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?
-http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7EfCf-e5nKehMQzrOBwWduf%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192542%2C%2C%2C20240420192542%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
-http://ygbh.site/php/bfgd.php?id=063
-https://cc06.tv12.xyz/4.m3u8
 http://60.10.139.113:8801/hls/4/index.m3u8
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV5.png",CCTV-5 体育
-http://miwifi.dbus.io:8622/rtp/239.3.1.173:8001
-http://bztv.tvbus.cc:8081/cdnlive/cctv5.m3u8
 http://198.204.228.26/live/cctv5hd.m3u8
 http://192.151.150.154/live/cctv5hd.m3u8
 http://107.150.60.122/live/cctv5hd.m3u8
+http://60.10.139.113:8801/hls/5/index.m3u8
+http://miwifi.dbus.io:8622/rtp/239.3.1.173:8001
 http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5hd
 http://183.129.255.66:8480/hls/5/index.m3u8
 http://223.75.149.129:9906/tsfile/live/0005_1.m3u8
 http://genglei.8866.org:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
-http://60.10.139.113:8801/hls/5/index.m3u8
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV5+.png",CCTV-5+ 体育赛事
+http://183.129.255.66:8480/hls/6/index.m3u8
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EevWZ0zmguDsOY_Mf3SM5TA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://59.39.89.130:60901/tsfile/live/0016_1.m3u8
 http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
 http://223.112.114.228:50080/newlive/live/hls/180/live.m3u8
 http://cssbyd.imwork.net:8082/hls/6/index.m3u8
 http://112.27.235.94:8000/hls/6/index.m3u8
-http://183.129.255.66:8480/hls/6/index.m3u8
-http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv5p
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EevWZ0zmguDsOY_Mf3SM5TA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?
-http://111.43.126.240:9003/hls/81/index.m3u8
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV6.png",CCTV-6 电影
 http://183.129.255.66:8480/hls/7/index.m3u8
 http://124.228.160.176:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -194,19 +188,12 @@ http://ygbh.site/php/bfgd.php?id=133
 https://cc06.tv12.xyz/16.m3u8
 http://60.10.139.113:8801/hls/97/index.m3u8
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV16.png",CCTV-16 奥林匹克
+http://183.129.255.66:8480/hls/17/index.m3u8
+http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX9goLRw26BM_r54des2PAw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://111.43.126.240:9003/hls/16/index.m3u8
 http://192.151.150.154/live/cctv16hd.m3u8
 http://207.56.13.146:81/cdnlive/cctv16.m3u8
-http://183.129.255.66:8480/hls/17/index.m3u8
-http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX9goLRw26BM_r54des2PAw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
-https://yunmei.tv/main/cctv-16.m3u8
-http://219.135.180.210:18888/hls/31/index.m3u8
-http://58.17.48.228:808/hls/25/index.m3u8
-http://58.221.214.82:9901/tsfile/live/0002_2.m3u8?key=txiptv&playlive=1&authid=0
-http://p.ytelc.com/169l/0/cctv.php?id=cctv16
-http://111.26.109.81:9003/hls/16/index.m3u8
 #EXTINF:-1 group-title="央视高清" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/CCTV17.png",CCTV-17 农业农村
 http://183.129.255.66:8480/hls/18/index.m3u8
 http://192.151.150.154/live/cctv17hd.m3u8
@@ -491,24 +478,24 @@ http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/322122
 https://liveout.btzx.com.cn/62ds9e/yil08g.m3u8
 
 #EXTINF:-1 group-title="湾区掠影" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/凤凰中文.png",凤凰中文
-https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=2f797f6963d4df5f391f48edfa50ff59&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=3ed416f2709e7ecaf6dc1b9d9c66bb5e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
 http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
-http://111.221.137.234:44330/tsfile/live/0141_2.m3u8?key=txiptv&playlive=0&authid=0
 http://feilong123.vip/409990236/hktv.php?id=2
 http://cdn6.163189.xyz/163189/fhzw
+https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=2f797f6963d4df5f391f48edfa50ff59&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+https://live.264788.xyz/channel/fenghuangweishizhongwen?streamid=3ed416f2709e7ecaf6dc1b9d9c66bb5e&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+http://111.221.137.234:44330/tsfile/live/0141_2.m3u8?key=txiptv&playlive=0&authid=0
 https://cdn6.163189.xyz/163189/fhzw
 http://rihou.cc:555/tv/[Pd]凤凰中文
 http://iptv.4666888.xyz/iptv2A.php?id=27
 http://r.jdshipin.com/cCCzW
 #EXTINF:-1 group-title="湾区掠影" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/凤凰资讯.png",凤凰资讯
-https://live.264788.xyz/channel/fenghuangweishizixun?streamid=7fb13f400476e75ce6c34d1f40c28473&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-https://live.264788.xyz/channel/fenghuangweishizixun?streamid=77bd953dbf073e11b80bba0a8aca92c5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
-http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
-https://vcstiok.serv00.net/fhxyh.php?from=web&id=fhzx$fhx
 http://cdn6.163189.xyz/163189/fhzx
 https://cdn6.163189.xyz/163189/fhzx
 http://rihou.cc:555/tv/[Pd]凤凰资讯
+http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
+https://live.264788.xyz/channel/fenghuangweishizixun?streamid=7fb13f400476e75ce6c34d1f40c28473&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+https://live.264788.xyz/channel/fenghuangweishizixun?streamid=77bd953dbf073e11b80bba0a8aca92c5&livekey=01WgOR41rriMmMkzNsd0UoaxJRwetZdxIvtVk
+https://vcstiok.serv00.net/fhxyh.php?from=web&id=fhzx$fhx
 http://feilong123.vip/409990236/hktv.php?id=1
 http://r.jdshipin.com/0Rp07
 #EXTINF:-1 group-title="湾区掠影" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/凤凰卫视香港台.png",凤凰香港
@@ -520,11 +507,10 @@ http://r.jdshipin.com/yDoTN
 http://r.jdshipin.com/NfC0f
 http://bxtv.3a.ink/api.php?id=fhhk
 #EXTINF:-1 group-title="湾区掠影" tvg-logo="https://gitee.com/ez2c4u/ez/raw/master/logo/中天新闻台.png",中天新闻
-http://jnzq.ohoyee.com:9080/live/xingjiaoge-ztxw2.m3u8
-http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 http://rihou.cc:555/tv/[Hv]中天新聞
 http://rihou.cc:555/tv/[SZ]中天新闻
 http://rihou.cc:555/tv/[Us]中天新闻
+http://nmk.ioapk.com:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 http://220.135.64.124:5050/li-4gtv-4gtv009/index.m3u8?proxy=true
 http://220.135.64.124:5050/4gtv-4gtv009/index.m3u8?proxy=true
