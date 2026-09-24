@@ -7,42 +7,47 @@
 
 #### IPTV搜索引擎
 
-1. https://iptv.hacks.tools/
-2. http://tonkiang.us
-3. https://iptv-org.github.io
-4. https://www.foodieguide.com/iptvsearch/
-5. https://streamtest.in
-6. https://qutv.tech/
-7. https://meledee.com/2023/12/4380.html
+1. https://search.iptv365.org/
+2. https://iptvs.hacks.tools/
+3. https://www.iptv-free.com/
+4. http://tonkiang.us
+5. https://iptv-org.github.io
+6. https://www.foodieguide.com/iptvsearch/
+7. https://streamtest.in
+8. https://qutv.tech/
+9. https://meledee.com/2023/12/4380.html
+10. https://iptv365.org/
+11. https://live.zbds.top/
 
 #### 精选项目
 
-1. https://www.iptvindex.com
-2. https://github.com/iptv-org/iptv
-3. https://github.com/suxuang/myIPTV
-4. https://github.com/zzj2678/iptv3
-5. https://github.com/YanG-1989/m3u
-6. https://github.com/felixiao/TVBoxSource/tree/main
-7. https://github.com/jk2024988/TV2024
-8. https://aktv.top/
-9. https://github.com/Kimentanm/aptv
-10. https://github.com/YueChan/Live
-11. https://github.com/fanmingming/live
-12. https://github.com/Ftindy/IPTV-URL
-13. https://github.com/joevess/IPTV
-14. https://github.com/dimaston
-15. https://github.com/imDazui/Tvlist-awesome-m3u-m3u8/tree/master/m3u
-16. https://github.com/2010dainifei/IPTV
-17. https://github.com/qist/tvbox
-18. https://github.com/880824/golang-TV
-19. https://github.com/Moexin/IPTV
-20. https://github.com/Cyril0563/lanjing_live
-21. https://github.com/biancangming/wtv-online
-22. https://github.com/BigBigGrandG/IPTV-URL
-23. https://github.com/zbefine/iptv
-24. https://github.com/qwerttvv/Beijing-IPTV
-25. https://github.com/Meroser/IPTV
-26. https://github.com/hujingguang/ChinaIPTV
+1. https://github.com/youhunwl/TVAPP
+2. https://www.iptvindex.com
+3. https://github.com/iptv-org/iptv
+4. https://github.com/suxuang/myIPTV
+5. https://github.com/zzj2678/iptv3
+6. https://github.com/YanG-1989/m3u
+7. https://github.com/felixiao/TVBoxSource/tree/main
+8. https://github.com/jk2024988/TV2024
+9. https://aktv.top/
+10. https://github.com/Kimentanm/aptv
+11. https://github.com/YueChan/Live
+12. https://github.com/fanmingming/live
+13. https://github.com/Ftindy/IPTV-URL
+14. https://github.com/joevess/IPTV
+15. https://github.com/dimaston
+16. https://github.com/imDazui/Tvlist-awesome-m3u-m3u8/tree/master/m3u
+17. https://github.com/2010dainifei/IPTV
+18. https://github.com/qist/tvbox
+19. https://github.com/880824/golang-TV
+20. https://github.com/Moexin/IPTV
+21. https://github.com/Cyril0563/lanjing_live
+22. https://github.com/biancangming/wtv-online
+23. https://github.com/BigBigGrandG/IPTV-URL
+24. https://github.com/zbefine/iptv
+25. https://github.com/qwerttvv/Beijing-IPTV
+26. https://github.com/Meroser/IPTV
+27. https://github.com/hujingguang/ChinaIPTV
 
 
 
